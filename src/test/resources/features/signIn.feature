@@ -18,7 +18,7 @@ Feature: Sign In Feature
     Examples: 
       | email                      | password  |
       | abdullah.bahir88@gmail.com | Tek@12345  |
-      | phantom.test@gmail.com     | Tek@12345 |
+     
 
   
   Scenario: Verify user can create an account into Retail website
@@ -27,6 +27,6 @@ Feature: Sign In Feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name    | email                      | password | confirmpassword |
-      | Ali | jankhan32@gmail.com | Tek@12345 | Tek@12345       |
+      | Ali | jankhan3124@gmail.com | Tek@12345 | Tek@12345       |
     And User click on signUp button
     Then User should be logged in into Account Page

@@ -1,4 +1,126 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.736 s - in tek.sdet.framework.runner.TestRunner
+Tests run: 13, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 72.881 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
+Retail Account Page.Verify User can update Profile Information  Time elapsed: 25.016 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (0e26dcd165c6c972fd5ec6bd460d0358)] -> xpath: //button[text()='Update']] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-E52KFC9', ip: '192.168.1.81', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\abdul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59745}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59745/devtoo..., se:cdpVersion: 110.0.5481.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e26dcd165c6c972fd5ec6bd460d0358
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at tek.sdet.framework.utilities.CommonUtility.waitTillClickable(CommonUtility.java:30)
+	at tek.sdet.framework.utilities.CommonUtility.click(CommonUtility.java:42)
+	at tek.sdet.framework.steps.AccountSteps.userClickOnUpdateButton(AccountSteps.java:31)
+	at ✽.User click on Update button(classpath:features/RetailAccount.feature:14)
+
+Sign In Feature.Verify user can sign in into Retail Application #3  Time elapsed: 9.271 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to find element with locator By.cssSelector: #accountLink
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-E52KFC9', ip: '192.168.1.81', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy24.isDisplayed(Unknown Source)
+	at tek.sdet.framework.utilities.CommonUtility.isElementDisplayed(CommonUtility.java:124)
+	at tek.sdet.framework.steps.SignInSteps.userShouldBeLoggedInIntoAccount(SignInSteps.java:36)
+	at ✽.User should be logged in into Account(classpath:features/signIn.feature:16)
+
+Sign In Feature.Verify user can sign in into Retail Application #3  Time elapsed: 9.275 s  <<< ERROR!
+org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-E52KFC9', ip: '192.168.1.81', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f560b26afc3265afc0e42e3d03e89b6b, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\abdul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59849}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59849/devtoo..., se:cdpVersion: 110.0.5481.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f560b26afc3265afc0e42e3d03e89b6b
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:331)
+	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsBytes(CommonUtility.java:52)
+	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:16)
+
+Sign In Feature.Verify user can create an account into Retail website  Time elapsed: 7.883 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-E52KFC9', ip: '192.168.1.81', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6186742495b08351d5f63f42dc0bf66, findElement {using=xpath, value=//img[@id='profileImage']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\abdul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59878/devtoo..., se:cdpVersion: 110.0.5481.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e6186742495b08351d5f63f42dc0bf66
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy24.isDisplayed(Unknown Source)
+	at tek.sdet.framework.utilities.CommonUtility.isElementDisplayed(CommonUtility.java:124)
+	at tek.sdet.framework.steps.SignInSteps.userShouldBeLoggedInIntoAccountPage(SignInSteps.java:60)
+	at ✽.User should be logged in into Account Page(classpath:features/signIn.feature:32)
+
+Sign In Feature.Verify user can create an account into Retail website  Time elapsed: 7.883 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=110.0.5481.105)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-E52KFC9', ip: '192.168.1.81', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6186742495b08351d5f63f42dc0bf66, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.105, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\abdul\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59878/devtoo..., se:cdpVersion: 110.0.5481.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e6186742495b08351d5f63f42dc0bf66
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:331)
+	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsBytes(CommonUtility.java:52)
+	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:16)
+
