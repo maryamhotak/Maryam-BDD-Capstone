@@ -27,6 +27,6 @@ Feature: Sign In Feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name    | email                      | password | confirmpassword |
-      | Ali | alikhanjan@gmail.com | Tek@12345 | Tek@12345       |
+      | Ali | mangalustad@gmail.com | Tek@12345 | Tek@12345       |
     And User click on signUp button
-    Then User should be logged in into Account Page
+    Then user should be logged in into Account
