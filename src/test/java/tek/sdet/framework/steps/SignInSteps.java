@@ -10,6 +10,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
+import tek.sdet.framework.utilities.DataGeneratorUtility;
 
 public class SignInSteps extends CommonUtility{
 	POMFactory factory = new POMFactory();
@@ -44,7 +45,7 @@ public class SignInSteps extends CommonUtility{
 	@When("User fill the signUp information with below data")
 	public void userFillTheSignUpInformationWithBelowData(DataTable dataTable) {
 	   List<Map<String, String>> singUpInformation = dataTable.asMaps(String.class, String.class);
-	   sendText(factory.signInPage().nameInput,singUpInformation.get(0).get("name"));
+	   sendText(factory.signInPage().nameInput, singUpInformation.get(0).get("name"));
 	   sendText(factory.signInPage().emailInput,singUpInformation.get(0).get("email"));
 	   sendText(factory.signInPage().passwordInput,singUpInformation.get(0).get("password"));
 	   sendText(factory.signInPage().confirmPassword,singUpInformation.get(0).get("confirmpassword"));

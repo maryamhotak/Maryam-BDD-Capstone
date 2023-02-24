@@ -722,3 +722,225 @@
 2023-02-23 14:19:09,833 [main] INFO logger File - User filled the signUp information form 
 2023-02-23 14:19:09,964 [main] INFO logger File - user clicked on signUp button
 2023-02-23 14:19:10,318 [main] INFO logger File - profile image is displayed
+2023-02-23 19:42:11,097 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:11,109 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:11,561 [main] INFO logger File - user searched for product pokemon
+2023-02-23 19:42:11,701 [main] INFO logger File - the Product is displayed on home page
+2023-02-23 19:42:14,156 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:14,157 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:14,379 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:42:14,476 [main] INFO logger File - Electronicsis equal to Electronics
+2023-02-23 19:42:14,545 [main] INFO logger File - Computersis equal to Computers
+2023-02-23 19:42:14,611 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-02-23 19:42:14,680 [main] INFO logger File - Sportsis equal to Sports
+2023-02-23 19:42:14,747 [main] INFO logger File - Automativeis equal to Automative
+2023-02-23 19:42:17,096 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:17,097 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:17,310 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:42:17,559 [main] INFO logger File - TV & Video is present
+2023-02-23 19:42:20,416 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:20,418 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:20,609 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:42:20,912 [main] INFO logger File - Smart Home Lightning is present
+2023-02-23 19:42:21,011 [main] INFO logger File - Plugs and Outlets is present
+2023-02-23 19:42:23,490 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:23,491 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:23,676 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:42:23,973 [main] INFO logger File - Athletic Clothing is present
+2023-02-23 19:42:24,061 [main] INFO logger File - Exercise & Fitness is present
+2023-02-23 19:42:26,342 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:26,343 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:26,547 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:42:26,886 [main] INFO logger File - Automative Parts & Accessories is present
+2023-02-23 19:42:29,278 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:29,279 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:29,542 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:42:29,957 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:42:30,095 [main] INFO logger File - user clicked on login button
+2023-02-23 19:42:30,622 [main] INFO logger File - User clicked on account option
+2023-02-23 19:42:31,154 [main] INFO logger File - user update name and phone number
+2023-02-23 19:42:31,296 [main] INFO logger File - user clicked on update button
+2023-02-23 19:42:31,297 [main] INFO logger File - user logged in
+2023-02-23 19:42:33,721 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:33,722 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:33,962 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:42:34,394 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:42:34,528 [main] INFO logger File - user clicked on login button
+2023-02-23 19:42:37,182 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:37,183 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:37,426 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:42:37,844 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:42:37,972 [main] INFO logger File - user clicked on login button
+2023-02-23 19:42:40,608 [main] INFO logger File - user is on retail website
+2023-02-23 19:42:40,609 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:42:40,859 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:42:41,017 [main] INFO logger File - User click on Create New Account button
+2023-02-23 19:42:41,774 [main] INFO logger File - User filled the signUp information form 
+2023-02-23 19:42:41,925 [main] INFO logger File - user clicked on signUp button
+2023-02-23 19:44:37,052 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:37,058 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:37,605 [main] INFO logger File - user searched for product pokemon
+2023-02-23 19:44:37,736 [main] INFO logger File - the Product is displayed on home page
+2023-02-23 19:44:40,572 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:40,573 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:40,931 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:44:41,023 [main] INFO logger File - Electronicsis equal to Electronics
+2023-02-23 19:44:41,081 [main] INFO logger File - Computersis equal to Computers
+2023-02-23 19:44:41,143 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-02-23 19:44:41,203 [main] INFO logger File - Sportsis equal to Sports
+2023-02-23 19:44:41,264 [main] INFO logger File - Automativeis equal to Automative
+2023-02-23 19:44:43,962 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:43,964 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:44,318 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:44:44,564 [main] INFO logger File - TV & Video is present
+2023-02-23 19:44:47,360 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:47,364 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:47,575 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:44:48,028 [main] INFO logger File - Smart Home Lightning is present
+2023-02-23 19:44:48,127 [main] INFO logger File - Plugs and Outlets is present
+2023-02-23 19:44:50,928 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:50,929 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:51,262 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:44:51,550 [main] INFO logger File - Athletic Clothing is present
+2023-02-23 19:44:51,637 [main] INFO logger File - Exercise & Fitness is present
+2023-02-23 19:44:54,484 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:54,486 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:54,777 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:44:55,078 [main] INFO logger File - Automative Parts & Accessories is present
+2023-02-23 19:44:57,916 [main] INFO logger File - user is on retail website
+2023-02-23 19:44:57,918 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:44:58,343 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:44:58,824 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:44:58,958 [main] INFO logger File - user clicked on login button
+2023-02-23 19:44:59,509 [main] INFO logger File - User clicked on account option
+2023-02-23 19:45:00,095 [main] INFO logger File - user update name and phone number
+2023-02-23 19:45:00,237 [main] INFO logger File - user clicked on update button
+2023-02-23 19:45:00,239 [main] INFO logger File - user logged in
+2023-02-23 19:45:03,075 [main] INFO logger File - user is on retail website
+2023-02-23 19:45:03,077 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:45:03,483 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:45:03,929 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:45:04,084 [main] INFO logger File - user clicked on login button
+2023-02-23 19:45:07,187 [main] INFO logger File - user is on retail website
+2023-02-23 19:45:07,188 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:45:07,610 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:45:08,091 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:45:08,234 [main] INFO logger File - user clicked on login button
+2023-02-23 19:45:11,284 [main] INFO logger File - user is on retail website
+2023-02-23 19:45:11,286 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:45:11,549 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:45:11,708 [main] INFO logger File - User click on Create New Account button
+2023-02-23 19:45:12,554 [main] INFO logger File - User filled the signUp information form 
+2023-02-23 19:45:12,689 [main] INFO logger File - user clicked on signUp button
+2023-02-23 19:53:00,237 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:00,249 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:00,701 [main] INFO logger File - user searched for product pokemon
+2023-02-23 19:53:00,822 [main] INFO logger File - the Product is displayed on home page
+2023-02-23 19:53:03,647 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:03,648 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:04,021 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:53:04,112 [main] INFO logger File - Electronicsis equal to Electronics
+2023-02-23 19:53:04,183 [main] INFO logger File - Computersis equal to Computers
+2023-02-23 19:53:04,244 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-02-23 19:53:04,305 [main] INFO logger File - Sportsis equal to Sports
+2023-02-23 19:53:04,366 [main] INFO logger File - Automativeis equal to Automative
+2023-02-23 19:53:07,152 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:07,152 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:07,509 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:53:07,785 [main] INFO logger File - TV & Video is present
+2023-02-23 19:53:10,668 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:10,669 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:11,035 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:53:11,295 [main] INFO logger File - Smart Home Lightning is present
+2023-02-23 19:53:11,392 [main] INFO logger File - Plugs and Outlets is present
+2023-02-23 19:53:14,403 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:14,404 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:14,766 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:53:15,068 [main] INFO logger File - Athletic Clothing is present
+2023-02-23 19:53:15,154 [main] INFO logger File - Exercise & Fitness is present
+2023-02-23 19:53:17,959 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:17,959 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:18,114 [main] INFO logger File - User clicked on All Departments
+2023-02-23 19:53:18,612 [main] INFO logger File - Automative Parts & Accessories is present
+2023-02-23 19:53:21,400 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:21,402 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:21,827 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:53:22,263 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:53:22,396 [main] INFO logger File - user clicked on login button
+2023-02-23 19:53:22,967 [main] INFO logger File - User clicked on account option
+2023-02-23 19:53:23,554 [main] INFO logger File - user update name and phone number
+2023-02-23 19:53:23,699 [main] INFO logger File - user clicked on update button
+2023-02-23 19:53:23,701 [main] INFO logger File - user logged in
+2023-02-23 19:53:26,670 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:26,671 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:27,085 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:53:27,608 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:53:27,747 [main] INFO logger File - user clicked on login button
+2023-02-23 19:53:30,858 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:30,859 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:31,259 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:53:31,750 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 19:53:31,900 [main] INFO logger File - user clicked on login button
+2023-02-23 19:53:34,998 [main] INFO logger File - user is on retail website
+2023-02-23 19:53:34,999 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 19:53:35,405 [main] INFO logger File - user click on the Sign in option
+2023-02-23 19:53:35,551 [main] INFO logger File - User click on Create New Account button
+2023-02-23 19:53:36,644 [main] INFO logger File - User filled the signUp information form 
+2023-02-23 19:53:36,776 [main] INFO logger File - user clicked on signUp button
+2023-02-23 19:53:37,129 [main] INFO logger File - account option should be displayed
+2023-02-23 20:50:49,796 [main] INFO logger File - user is on retail website
+2023-02-23 20:50:49,804 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:50:50,244 [main] INFO logger File - user searched for product pokemon
+2023-02-23 20:50:50,367 [main] INFO logger File - the Product is displayed on home page
+2023-02-23 20:50:53,043 [main] INFO logger File - user is on retail website
+2023-02-23 20:50:53,045 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:50:53,371 [main] INFO logger File - User clicked on All Departments
+2023-02-23 20:50:53,450 [main] INFO logger File - Electronicsis equal to Electronics
+2023-02-23 20:50:53,505 [main] INFO logger File - Computersis equal to Computers
+2023-02-23 20:50:53,555 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-02-23 20:50:53,606 [main] INFO logger File - Sportsis equal to Sports
+2023-02-23 20:50:53,655 [main] INFO logger File - Automativeis equal to Automative
+2023-02-23 20:50:56,253 [main] INFO logger File - user is on retail website
+2023-02-23 20:50:56,254 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:50:56,549 [main] INFO logger File - User clicked on All Departments
+2023-02-23 20:50:56,770 [main] INFO logger File - TV & Video is present
+2023-02-23 20:50:59,351 [main] INFO logger File - user is on retail website
+2023-02-23 20:50:59,353 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:50:59,674 [main] INFO logger File - User clicked on All Departments
+2023-02-23 20:50:59,925 [main] INFO logger File - Smart Home Lightning is present
+2023-02-23 20:51:00,030 [main] INFO logger File - Plugs and Outlets is present
+2023-02-23 20:51:02,813 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:02,814 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:03,156 [main] INFO logger File - User clicked on All Departments
+2023-02-23 20:51:03,475 [main] INFO logger File - Athletic Clothing is present
+2023-02-23 20:51:03,556 [main] INFO logger File - Exercise & Fitness is present
+2023-02-23 20:51:06,069 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:06,069 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:06,398 [main] INFO logger File - User clicked on All Departments
+2023-02-23 20:51:06,709 [main] INFO logger File - Automative Parts & Accessories is present
+2023-02-23 20:51:09,364 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:09,367 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:09,726 [main] INFO logger File - user click on the Sign in option
+2023-02-23 20:51:10,107 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 20:51:10,245 [main] INFO logger File - user clicked on login button
+2023-02-23 20:51:10,765 [main] INFO logger File - User clicked on account option
+2023-02-23 20:51:11,303 [main] INFO logger File - user update name and phone number
+2023-02-23 20:51:11,430 [main] INFO logger File - user clicked on update button
+2023-02-23 20:51:11,431 [main] INFO logger File - user logged in
+2023-02-23 20:51:14,048 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:14,049 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:14,269 [main] INFO logger File - user click on the Sign in option
+2023-02-23 20:51:14,687 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 20:51:14,811 [main] INFO logger File - user clicked on login button
+2023-02-23 20:51:18,030 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:18,030 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:18,399 [main] INFO logger File - user click on the Sign in option
+2023-02-23 20:51:18,877 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-23 20:51:19,009 [main] INFO logger File - user clicked on login button
+2023-02-23 20:51:22,042 [main] INFO logger File - user is on retail website
+2023-02-23 20:51:22,044 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-23 20:51:22,443 [main] INFO logger File - user click on the Sign in option
+2023-02-23 20:51:22,596 [main] INFO logger File - User click on Create New Account button
+2023-02-23 20:51:23,419 [main] INFO logger File - User filled the signUp information form 
+2023-02-23 20:51:23,569 [main] INFO logger File - user clicked on signUp button
+2023-02-23 20:51:23,898 [main] INFO logger File - account option should be displayed
