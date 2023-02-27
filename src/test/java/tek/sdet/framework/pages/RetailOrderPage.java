@@ -67,7 +67,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(css="#placeOrderBtn")
 	public WebElement placeYourOrderBtnAgain;
 	
-	@FindBy(css="button[id='buyAgainBtn']")
+	@FindBy(xpath="//button[text()='Buy again']")
 	public WebElement buyAgainButton;
 	
 	@FindBy(xpath="(//p[text()='Show Details'])[1]")

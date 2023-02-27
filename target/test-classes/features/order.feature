@@ -18,7 +18,7 @@ Feature: Retail Order Page
   #@test
   #Scenario: Verify user can place order again
   #  And User click on buy again button
-  #  Then User click on Place Your order
+  # Then User click on Place Your order
   @test
   Scenario: Verify user can Return the order
     And User click on second order in list
