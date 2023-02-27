@@ -117,9 +117,9 @@ public class OrderSteps extends CommonUtility {
 		   click(factory.orderPage().placeYourOrderBtnAgain);
 	   }
 	   
-//	   @When("User click on second order in list")
-//	   public void userClickOnSecondOrderInList() {
-//	     click(factory.orderPage().secondOrder);
-//	     logger.info("user clicked on second order");
-//	   }
+	   @When("User click on second order in list")
+	   public void userClickOnSecondOrderInList() {
+	     click(factory.orderPage().secondOrder);
+	     logger.info("user clicked on second order");
+	   }
 }

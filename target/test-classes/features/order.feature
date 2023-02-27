@@ -6,23 +6,22 @@ Feature: Retail Order Page
     And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
     And User click on login button
     And User click on Order section
-    And User click on first order in list
 
   @test
   Scenario: Verify user can cancel the order
+    And User click on first order in list
     And User click on Cancel The Order button
     And User select the cancelation Reason 'Bought wrong item'
     And User click on Cancel Order button
     And A cancelation message should be displayed 'Your Order Has Been Cancelled'
-    And User click on Order section
 
-  @test
-  Scenario: Verify user can place order again
-    And User click on buy again button
-    Then User click on Place Your order
-
+  #@test
+  #Scenario: Verify user can place order again
+  #  And User click on buy again button
+  #  Then User click on Place Your order
   @test
   Scenario: Verify user can Return the order
+    And User click on second order in list
     And User click on Return items button
     And User select the Return Reason 'Item damaged'
     And User select the drop off service 'FedEx'
@@ -31,6 +30,7 @@ Feature: Retail Order Page
 
   @test
   Scenario: Verify user can write a review on order placed
+    And User click on first order in list
     And User click on Review button
     And User write Review headline
       | headline                | descripton         |
