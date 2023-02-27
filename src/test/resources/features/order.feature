@@ -7,6 +7,7 @@ Feature: Retail Order Page
     And User click on login button
     And User click on Order section
     And User click on first order in list
+
   @test
   Scenario: Verify user can cancel the order
     And User click on Cancel The Order button
@@ -14,10 +15,12 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     And A cancelation message should be displayed 'Your Order Has Been Cancelled'
     And User click on Order section
+
   @test
   Scenario: Verify user can place order again
     And User click on buy again button
     Then User click on Place Your order
+
   @test
   Scenario: Verify user can Return the order
     And User click on Return items button
@@ -25,6 +28,7 @@ Feature: Retail Order Page
     And User select the drop off service 'FedEx'
     And User click on return Order button
     Then A cancelation messages should be displayed 'Return was successfull'
+
   @test
   Scenario: Verify user can write a review on order placed
     And User click on Review button
@@ -33,7 +37,3 @@ Feature: Retail Order Page
       | Kasa Outdoor Smart Plug | Less then standard |
     And User click Add your Review button
     Then A review message should be displayed 'Your review was added successfully'
-  @test
-  Scenario: Verify user can place order again
-    And User click on buy again button
-    Then User click on Place Your order
