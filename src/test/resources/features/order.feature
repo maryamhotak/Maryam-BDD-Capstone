@@ -1,3 +1,4 @@
+@test
 Feature: Retail Order Page
 
   Background: 
@@ -7,7 +8,7 @@ Feature: Retail Order Page
     And User click on login button
     And User click on Order section
 
-  @test
+  
   Scenario: Verify user can cancel the order
     And User click on first order in list
     And User click on Cancel The Order button
@@ -19,7 +20,7 @@ Feature: Retail Order Page
   #Scenario: Verify user can place order again
   #  And User click on buy again button
   # Then User click on Place Your order
-  @test
+  
   Scenario: Verify user can Return the order
     And User click on second order in list
     And User click on Return items button
@@ -28,7 +29,7 @@ Feature: Retail Order Page
     And User click on return Order button
     Then A cancelation messages should be displayed 'Return was successfull'
 
-  @test
+  
   Scenario: Verify user can write a review on order placed
     And User click on first order in list
     And User click on Review button

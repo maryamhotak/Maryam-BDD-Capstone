@@ -3266,3 +3266,145 @@
 2023-02-27 15:22:46,810 - logger File -INFO - user filled review form
 2023-02-27 15:22:46,959 - logger File -INFO - user clicked on order review button
 2023-02-27 15:22:47,768 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 16:04:11,458 - logger File -INFO - user is on retail website
+2023-02-27 16:04:11,467 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:04:11,819 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:04:12,188 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:04:12,335 - logger File -INFO - user clicked on login button
+2023-02-27 16:08:35,359 - logger File -INFO - user is on retail website
+2023-02-27 16:08:35,366 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:08:35,779 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:08:36,255 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:08:36,399 - logger File -INFO - user clicked on login button
+2023-02-27 16:10:09,147 - logger File -INFO - user is on retail website
+2023-02-27 16:10:09,156 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:10:09,553 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:10:09,961 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:10:10,086 - logger File -INFO - user clicked on login button
+2023-02-27 16:10:10,854 - logger File -INFO - User clicked on account option
+2023-02-27 16:10:11,002 - logger File -INFO - use clicked on add paymet method link
+2023-02-27 16:10:11,794 - logger File -INFO - user filled debit or credit card information
+2023-02-27 16:10:11,933 - logger File -INFO - user clicked on payment submit button
+2023-02-27 16:10:12,664 - logger File -INFO - message was displayed Payment Method added sucessfully
+2023-02-27 16:10:52,897 - logger File -INFO - user is on retail website
+2023-02-27 16:10:52,906 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:10:53,162 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:10:53,574 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:10:53,708 - logger File -INFO - user clicked on login button
+2023-02-27 16:10:54,225 - logger File -INFO - User clicked on account option
+2023-02-27 16:10:54,401 - logger File -INFO - user clicked on bank card
+2023-02-27 16:10:54,586 - logger File -INFO - user click on edit card
+2023-02-27 16:10:55,620 - logger File -INFO - user filled update bank account card form
+2023-02-27 16:10:55,769 - logger File -INFO - user clicked update button
+2023-02-27 16:10:56,642 - logger File -INFO - a message was displayed Payment Method updated Successfully
+2023-02-27 16:10:56,642 - logger File -INFO - Expected: Payment Method updated Successfully Actual: 
+2023-02-27 16:11:32,771 - logger File -INFO - user is on retail website
+2023-02-27 16:11:32,779 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:11:33,195 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:11:33,613 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:11:33,733 - logger File -INFO - user clicked on login button
+2023-02-27 16:11:34,616 - logger File -INFO - User clicked on account option
+2023-02-27 16:11:34,798 - logger File -INFO - user clicked on bank card
+2023-02-27 16:11:34,977 - logger File -INFO - user clicked on remove button
+2023-02-27 16:11:35,043 - logger File -INFO - bank card removedtrue
+2023-02-27 16:12:21,622 - logger File -INFO - user is on retail website
+2023-02-27 16:12:21,629 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:12:22,013 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:12:22,418 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:12:22,556 - logger File -INFO - user clicked on login button
+2023-02-27 16:12:23,080 - logger File -INFO - User clicked on account option
+2023-02-27 16:12:23,288 - logger File -INFO - user clicked on bank card
+2023-02-27 16:12:23,487 - logger File -INFO - user clicked on remove button
+2023-02-27 16:12:23,570 - logger File -INFO - bank card removedtrue
+2023-02-27 16:12:58,422 - logger File -INFO - user is on retail website
+2023-02-27 16:12:58,433 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:12:58,824 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:12:59,236 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:12:59,399 - logger File -INFO - user clicked on login button
+2023-02-27 16:12:59,882 - logger File -INFO - User clicked on account option
+2023-02-27 16:13:00,113 - logger File -INFO - user clicked on address option
+2023-02-27 16:13:01,443 - logger File -INFO - user filled address form
+2023-02-27 16:13:01,593 - logger File -INFO - user clicked on add your address button
+2023-02-27 16:13:02,344 - logger File -INFO - Address Added Successfully, this message was diplayed 
+2023-02-27 16:13:28,528 - logger File -INFO - user is on retail website
+2023-02-27 16:13:28,538 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:13:28,824 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:13:29,314 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:13:29,441 - logger File -INFO - user clicked on login button
+2023-02-27 16:13:29,948 - logger File -INFO - User clicked on account option
+2023-02-27 16:13:30,146 - logger File -INFO - user clicked on address edit button
+2023-02-27 16:13:31,890 - logger File -INFO - user updated address form with new information
+2023-02-27 16:14:04,182 - logger File -INFO - user is on retail website
+2023-02-27 16:14:04,191 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:14:04,470 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:14:04,897 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 16:14:05,024 - logger File -INFO - user clicked on login button
+2023-02-27 16:14:05,543 - logger File -INFO - User clicked on account option
+2023-02-27 16:14:05,725 - logger File -INFO - user clicked on address remove button
+2023-02-27 16:14:05,819 - logger File -INFO - true
+2023-02-27 16:16:38,421 - logger File -INFO - user is on retail website
+2023-02-27 16:16:38,431 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:16:38,759 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:16:39,161 - logger File -INFO - user entered email jangul@gmail.com and password Tek@12345
+2023-02-27 16:16:39,285 - logger File -INFO - user clicked on login button
+2023-02-27 16:49:37,802 - logger File -INFO - user is on retail website
+2023-02-27 16:49:37,810 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:49:38,143 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:49:38,493 - logger File -INFO - user entered email jangul@gmail.com and password Tek@12345
+2023-02-27 16:49:38,629 - logger File -INFO - user clicked on login button
+2023-02-27 16:50:03,828 - logger File -INFO - user is on retail website
+2023-02-27 16:50:03,839 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:50:04,192 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:50:04,544 - logger File -INFO - user entered email jangul@gmail.com and password Tek@123456
+2023-02-27 16:50:04,666 - logger File -INFO - user clicked on login button
+2023-02-27 16:51:22,253 - logger File -INFO - user is on retail website
+2023-02-27 16:51:22,260 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:51:22,656 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:51:23,022 - logger File -INFO - user entered email jangul@gmail.com and password Tek@123456
+2023-02-27 16:51:23,173 - logger File -INFO - user clicked on login button
+2023-02-27 16:51:23,650 - logger File -INFO - User clicked on account option
+2023-02-27 16:51:24,280 - logger File -INFO - user filled password update form
+2023-02-27 16:51:24,448 - logger File -INFO - user clicked on update pasword button
+2023-02-27 16:52:08,868 - logger File -INFO - user is on retail website
+2023-02-27 16:52:08,875 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:52:09,212 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:52:09,563 - logger File -INFO - user entered email jangul@gmail.com and password Tek@123456
+2023-02-27 16:52:09,701 - logger File -INFO - user clicked on login button
+2023-02-27 16:52:10,155 - logger File -INFO - User clicked on account option
+2023-02-27 16:52:10,654 - logger File -INFO - user filled password update form
+2023-02-27 16:52:10,777 - logger File -INFO - user clicked on update pasword button
+2023-02-27 16:54:40,627 - logger File -INFO - user is on retail website
+2023-02-27 16:54:40,633 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:54:40,993 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:54:41,336 - logger File -INFO - user entered email jangul@gmail.com and password Tek@123456
+2023-02-27 16:54:41,461 - logger File -INFO - user clicked on login button
+2023-02-27 16:55:20,294 - logger File -INFO - user is on retail website
+2023-02-27 16:55:20,302 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:55:20,631 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:55:20,977 - logger File -INFO - user entered email jangul@gmail.com and password Tek@12345
+2023-02-27 16:55:21,100 - logger File -INFO - user clicked on login button
+2023-02-27 16:55:21,559 - logger File -INFO - User clicked on account option
+2023-02-27 16:55:22,040 - logger File -INFO - user filled password update form
+2023-02-27 16:55:22,158 - logger File -INFO - user clicked on update pasword button
+2023-02-27 16:57:05,859 - logger File -INFO - user is on retail website
+2023-02-27 16:57:05,868 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:57:06,212 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:57:06,559 - logger File -INFO - user entered email jangul@gmail.com and password Tek@12346
+2023-02-27 16:57:06,664 - logger File -INFO - user clicked on login button
+2023-02-27 16:57:39,297 - logger File -INFO - user is on retail website
+2023-02-27 16:57:39,304 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 16:57:39,594 - logger File -INFO - user click on the Sign in option
+2023-02-27 16:57:39,952 - logger File -INFO - user entered email jangul@gmail.com and password Tek@123456
+2023-02-27 16:57:40,086 - logger File -INFO - user clicked on login button
+2023-02-27 16:57:40,575 - logger File -INFO - User clicked on account option
+2023-02-27 16:57:41,047 - logger File -INFO - user filled password update form
+2023-02-27 16:57:41,171 - logger File -INFO - user clicked on update pasword button
+2023-02-27 17:00:27,902 - logger File -INFO - user is on retail website
+2023-02-27 17:00:27,911 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 17:00:28,242 - logger File -INFO - user click on the Sign in option
+2023-02-27 17:00:28,576 - logger File -INFO - user entered email jangul@gmail.com and password Tek@12345
+2023-02-27 17:00:28,684 - logger File -INFO - user clicked on login button
+2023-02-27 17:00:29,135 - logger File -INFO - User clicked on account option
+2023-02-27 17:00:29,613 - logger File -INFO - user filled password update form
+2023-02-27 17:00:29,732 - logger File -INFO - user clicked on update pasword button
+2023-02-27 17:00:30,698 - logger File -INFO - a message was displayed Password Updated Successfully

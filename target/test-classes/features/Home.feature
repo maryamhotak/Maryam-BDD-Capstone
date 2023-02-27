@@ -1,3 +1,4 @@
+@test
 Feature: Retail Home Page
 
   Scenario: Verify user can search a product
@@ -48,7 +49,7 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or Credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 3456876523459899 | Jan        |              11 |           2027 |          432 |
+      | 3456876523459800 | Jan        |              11 |           2027 |          432 |
     And User click on Add your card button
     And User click on Place Your Order
     Then Message should be Displayed 'Order Placed, Thanks'

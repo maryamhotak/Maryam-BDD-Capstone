@@ -81,5 +81,54 @@ public class RetailAccountPage extends BaseSetup {
 
 	@FindBy(xpath="//div[text()='Payment Method added sucessfully']")
 	public WebElement paymentMethodSuccessMessage; 
+	
+	 @FindBy(xpath="//p[text()='Add a payment method']")
+	 public WebElement addPaymentMethodLink;
+	 
+	 @FindBy(xpath="//div[@class='account__payment-sub']")
+	 public WebElement bankCard;
+	 
+	 @FindBy(xpath="(//button[text()='Edit'])[1]")
+	 public WebElement editCard;
+	 
+	 @FindBy(xpath="//button[text()='Update Your Card']")
+	 public WebElement updateYourBankCard;
+	 
+	 @FindBy(xpath="//div[text()='Payment Method updated Successfully']")
+	 public WebElement paymentMethodUpdateMessage;
+	 
+	 @FindBy(xpath="//button[text()='remove']")
+	 public WebElement removeBankCard;
+	 
+	 @FindBy(xpath="//div[@class='account__address-new-wrapper']")
+	 public WebElement AddressOption;
+	 
+	 @FindBy(xpath="//button[@class='account__address-btn'][1]")
+	 public WebElement addressEditButton;
+	 
+	 @FindBy(xpath="//div[contains(text(),'Address Updated Successfully')]")
+	 public WebElement addressUpdateMassageAfterEdit;
+	 
+	 @FindBy(xpath="//button[@class='account__address-btn'][2]")
+	 public WebElement addressRemoveButton;
+	 
+	 @FindBy(xpath="//div[@class='account__address-new']")
+	 public WebElement addressValidationButton;
+	 
+	 @FindBy(css="#previousPasswordInput")
+	 public WebElement previousPasswordInput;
+	 
+	 @FindBy(css="#newPasswordInput")
+	 public WebElement newPasswordInput;
+	 
+	 @FindBy(css="#confirmPasswordInput")
+	 public WebElement confirmPasswordInput;
+	 
+	 @FindBy(xpath="//button[@id='credentialsSubmitBtn']")
+	 public WebElement passwordUpdateBtn;
+	 
+	@FindBy(xpath="//div[contains(text(),'Password Updated Successfully')]")
+	public WebElement passwordUpdateSuccessMessage;
+	 
 
 }
