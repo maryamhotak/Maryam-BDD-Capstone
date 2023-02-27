@@ -98,7 +98,7 @@ public class BaseSetup {
          
 			webDriver.manage().window().maximize(); 
 
-			webDriver.manage().timeouts().implicitlyWait(Duration.of(20,ChronoUnit.SECONDS)); 
+			webDriver.manage().timeouts().implicitlyWait(Duration.of(10,ChronoUnit.SECONDS)); 
 
 			webDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20)); 
 

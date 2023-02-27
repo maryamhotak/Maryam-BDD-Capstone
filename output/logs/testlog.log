@@ -944,3 +944,1659 @@
 2023-02-23 20:51:23,419 - logger File -INFO - User filled the signUp information form 
 2023-02-23 20:51:23,569 - logger File -INFO - user clicked on signUp button
 2023-02-23 20:51:23,898 - logger File -INFO - account option should be displayed
+2023-02-25 19:07:52,955 - logger File -INFO - user is on retail website
+2023-02-25 19:07:52,965 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:07:53,504 - logger File -INFO - user searched for product pokemon
+2023-02-25 19:07:53,643 - logger File -INFO - the Product is displayed on home page
+2023-02-25 19:07:56,142 - logger File -INFO - user is on retail website
+2023-02-25 19:07:56,144 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:07:56,432 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:07:56,539 - logger File -INFO - Electronicsis equal to Electronics
+2023-02-25 19:07:56,624 - logger File -INFO - Computersis equal to Computers
+2023-02-25 19:07:56,703 - logger File -INFO - Smart Homeis equal to Smart Home
+2023-02-25 19:07:56,789 - logger File -INFO - Sportsis equal to Sports
+2023-02-25 19:07:56,873 - logger File -INFO - Automativeis equal to Automative
+2023-02-25 19:07:59,357 - logger File -INFO - user is on retail website
+2023-02-25 19:07:59,358 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:07:59,641 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:07:59,965 - logger File -INFO - TV & Video is present
+2023-02-25 19:08:02,623 - logger File -INFO - user is on retail website
+2023-02-25 19:08:02,624 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:02,894 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:08:03,268 - logger File -INFO - Smart Home Lightning is present
+2023-02-25 19:08:03,415 - logger File -INFO - Plugs and Outlets is present
+2023-02-25 19:08:05,730 - logger File -INFO - user is on retail website
+2023-02-25 19:08:05,731 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:06,008 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:08:06,414 - logger File -INFO - Athletic Clothing is present
+2023-02-25 19:08:06,525 - logger File -INFO - Exercise & Fitness is present
+2023-02-25 19:08:08,876 - logger File -INFO - user is on retail website
+2023-02-25 19:08:08,877 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:09,170 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:08:09,583 - logger File -INFO - Automative Parts & Accessories is present
+2023-02-25 19:08:12,005 - logger File -INFO - user is on retail website
+2023-02-25 19:08:12,006 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:12,310 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:12,785 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:12,943 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:13,403 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:08:13,646 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:08:13,825 - logger File -INFO - user clicked on search button
+2023-02-25 19:08:14,030 - logger File -INFO - user clicked on item
+2023-02-25 19:08:14,337 - logger File -INFO - user selected item quantity
+2023-02-25 19:08:14,571 - logger File -INFO - user clicked on add to card button
+2023-02-25 19:08:17,216 - logger File -INFO - user is on retail website
+2023-02-25 19:08:17,217 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:17,520 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:18,013 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:18,185 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:18,686 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:08:18,926 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:08:19,073 - logger File -INFO - user clicked on search button
+2023-02-25 19:08:21,820 - logger File -INFO - user is on retail website
+2023-02-25 19:08:21,820 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:22,103 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:22,544 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:22,686 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:23,189 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:08:23,421 - logger File -INFO - user added searched for Apex Legends
+2023-02-25 19:08:23,612 - logger File -INFO - user clicked on search button
+2023-02-25 19:08:25,985 - logger File -INFO - user is on retail website
+2023-02-25 19:08:25,986 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:26,376 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:26,923 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:27,100 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:27,686 - logger File -INFO - User clicked on account option
+2023-02-25 19:08:28,266 - logger File -INFO - user update name and phone number
+2023-02-25 19:08:28,434 - logger File -INFO - user clicked on update button
+2023-02-25 19:08:28,436 - logger File -INFO - user logged in
+2023-02-25 19:08:30,894 - logger File -INFO - user is on retail website
+2023-02-25 19:08:30,895 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:31,208 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:31,696 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:31,853 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:34,563 - logger File -INFO - user is on retail website
+2023-02-25 19:08:34,564 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:34,888 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:35,371 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:08:35,516 - logger File -INFO - user clicked on login button
+2023-02-25 19:08:38,117 - logger File -INFO - user is on retail website
+2023-02-25 19:08:38,117 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:08:38,384 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:08:38,543 - logger File -INFO - User click on Create New Account button
+2023-02-25 19:08:39,388 - logger File -INFO - User filled the signUp information form 
+2023-02-25 19:08:39,555 - logger File -INFO - user clicked on signUp button
+2023-02-25 19:08:39,927 - logger File -INFO - account option should be displayed
+2023-02-25 19:10:06,141 - logger File -INFO - user is on retail website
+2023-02-25 19:10:06,156 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:06,622 - logger File -INFO - user searched for product pokemon
+2023-02-25 19:10:06,782 - logger File -INFO - the Product is displayed on home page
+2023-02-25 19:10:10,230 - logger File -INFO - user is on retail website
+2023-02-25 19:10:10,232 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:10,594 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:10:10,713 - logger File -INFO - Electronicsis equal to Electronics
+2023-02-25 19:10:10,784 - logger File -INFO - Computersis equal to Computers
+2023-02-25 19:10:10,854 - logger File -INFO - Smart Homeis equal to Smart Home
+2023-02-25 19:10:10,928 - logger File -INFO - Sportsis equal to Sports
+2023-02-25 19:10:10,995 - logger File -INFO - Automativeis equal to Automative
+2023-02-25 19:10:14,337 - logger File -INFO - user is on retail website
+2023-02-25 19:10:14,338 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:14,779 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:10:15,085 - logger File -INFO - TV & Video is present
+2023-02-25 19:10:18,477 - logger File -INFO - user is on retail website
+2023-02-25 19:10:18,479 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:18,857 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:10:19,143 - logger File -INFO - Smart Home Lightning is present
+2023-02-25 19:10:19,243 - logger File -INFO - Plugs and Outlets is present
+2023-02-25 19:10:22,153 - logger File -INFO - user is on retail website
+2023-02-25 19:10:22,154 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:22,488 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:10:22,797 - logger File -INFO - Athletic Clothing is present
+2023-02-25 19:10:22,881 - logger File -INFO - Exercise & Fitness is present
+2023-02-25 19:10:25,702 - logger File -INFO - user is on retail website
+2023-02-25 19:10:25,703 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:26,065 - logger File -INFO - User clicked on All Departments
+2023-02-25 19:10:26,372 - logger File -INFO - Automative Parts & Accessories is present
+2023-02-25 19:10:29,342 - logger File -INFO - user is on retail website
+2023-02-25 19:10:29,343 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:29,789 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:30,304 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:30,461 - logger File -INFO - user clicked on login button
+2023-02-25 19:10:30,930 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:10:31,132 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:10:31,272 - logger File -INFO - user clicked on search button
+2023-02-25 19:10:31,461 - logger File -INFO - user clicked on item
+2023-02-25 19:10:31,745 - logger File -INFO - user selected item quantity
+2023-02-25 19:10:31,948 - logger File -INFO - user clicked on add to card button
+2023-02-25 19:10:35,632 - logger File -INFO - user is on retail website
+2023-02-25 19:10:35,633 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:35,898 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:36,526 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:36,665 - logger File -INFO - user clicked on login button
+2023-02-25 19:10:37,296 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:10:37,562 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:10:37,694 - logger File -INFO - user clicked on search button
+2023-02-25 19:10:41,279 - logger File -INFO - user is on retail website
+2023-02-25 19:10:41,279 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:41,700 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:42,181 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:42,317 - logger File -INFO - user clicked on login button
+2023-02-25 19:10:42,760 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:10:42,957 - logger File -INFO - user added searched for Apex Legends
+2023-02-25 19:10:43,126 - logger File -INFO - user clicked on search button
+2023-02-25 19:10:46,580 - logger File -INFO - user is on retail website
+2023-02-25 19:10:46,581 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:47,185 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:47,735 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:47,915 - logger File -INFO - user clicked on login button
+2023-02-25 19:10:48,500 - logger File -INFO - User clicked on account option
+2023-02-25 19:10:49,156 - logger File -INFO - user update name and phone number
+2023-02-25 19:10:49,330 - logger File -INFO - user clicked on update button
+2023-02-25 19:10:49,332 - logger File -INFO - user logged in
+2023-02-25 19:10:52,667 - logger File -INFO - user is on retail website
+2023-02-25 19:10:52,668 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:53,152 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:53,653 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:53,793 - logger File -INFO - user clicked on login button
+2023-02-25 19:10:57,215 - logger File -INFO - user is on retail website
+2023-02-25 19:10:57,216 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:10:57,695 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:10:58,270 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:10:58,421 - logger File -INFO - user clicked on login button
+2023-02-25 19:11:01,907 - logger File -INFO - user is on retail website
+2023-02-25 19:11:01,909 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:11:02,427 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:11:02,613 - logger File -INFO - User click on Create New Account button
+2023-02-25 19:11:03,553 - logger File -INFO - User filled the signUp information form 
+2023-02-25 19:11:03,700 - logger File -INFO - user clicked on signUp button
+2023-02-25 19:11:57,125 - logger File -INFO - user is on retail website
+2023-02-25 19:11:57,137 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:11:57,515 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:11:58,016 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:11:58,203 - logger File -INFO - user clicked on login button
+2023-02-25 19:11:58,795 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:11:59,019 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:11:59,166 - logger File -INFO - user clicked on search button
+2023-02-25 19:11:59,950 - logger File -INFO - user clicked on item
+2023-02-25 19:12:00,270 - logger File -INFO - user selected item quantity
+2023-02-25 19:12:00,520 - logger File -INFO - user clicked on add to card button
+2023-02-25 19:12:49,937 - logger File -INFO - user is on retail website
+2023-02-25 19:12:49,946 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:12:50,329 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:12:50,817 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:12:50,970 - logger File -INFO - user clicked on login button
+2023-02-25 19:12:51,434 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:12:51,625 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:12:51,758 - logger File -INFO - user clicked on search button
+2023-02-25 19:18:31,425 - logger File -INFO - user is on retail website
+2023-02-25 19:18:31,450 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:18:31,771 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:18:32,217 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:18:32,369 - logger File -INFO - user clicked on login button
+2023-02-25 19:18:32,864 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:18:33,061 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:18:33,193 - logger File -INFO - user clicked on search button
+2023-02-25 19:18:33,417 - logger File -INFO - user clicked on item
+2023-02-25 19:18:33,702 - logger File -INFO - user selected item quantity2
+2023-02-25 19:18:33,879 - logger File -INFO - user clicked on add to card button
+2023-02-25 19:19:25,990 - logger File -INFO - user is on retail website
+2023-02-25 19:19:26,001 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 19:19:26,376 - logger File -INFO - user click on the Sign in option
+2023-02-25 19:19:26,838 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 19:19:26,983 - logger File -INFO - user clicked on login button
+2023-02-25 19:19:27,478 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 19:19:27,688 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 19:19:27,820 - logger File -INFO - user clicked on search button
+2023-02-25 19:19:28,054 - logger File -INFO - user clicked on item
+2023-02-25 19:19:28,314 - logger File -INFO - user selected item quantity2
+2023-02-25 19:19:28,512 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:22:05,304 - logger File -INFO - user is on retail website
+2023-02-25 20:22:05,312 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:22:05,715 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:22:06,132 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:22:06,269 - logger File -INFO - user clicked on login button
+2023-02-25 20:22:06,743 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:22:06,948 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:22:07,081 - logger File -INFO - user clicked on search button
+2023-02-25 20:22:07,350 - logger File -INFO - user clicked on item
+2023-02-25 20:22:07,634 - logger File -INFO - user selected item quantity2
+2023-02-25 20:22:07,814 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:24:01,493 - logger File -INFO - user is on retail website
+2023-02-25 20:24:01,499 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:24:01,871 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:24:02,278 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:24:02,413 - logger File -INFO - user clicked on login button
+2023-02-25 20:24:02,860 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:24:03,048 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:24:03,180 - logger File -INFO - user clicked on search button
+2023-02-25 20:24:03,430 - logger File -INFO - user clicked on item
+2023-02-25 20:24:03,685 - logger File -INFO - user selected item quantity2
+2023-02-25 20:24:03,878 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:24:04,179 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:24:04,328 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:24:04,452 - logger File -INFO - user clicked on add new address link
+2023-02-25 20:24:05,656 - logger File -INFO - user filled addres information form
+2023-02-25 20:24:05,838 - logger File -INFO - user clicked on add your address button
+2023-02-25 20:24:06,007 - logger File -INFO - user clicked on order new account link 
+2023-02-25 20:24:06,783 - logger File -INFO - user filled bank information form
+2023-02-25 20:24:06,926 - logger File -INFO - user clicked on payment submit buttion
+2023-02-25 20:24:07,069 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:24:07,355 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:26:06,031 - logger File -INFO - user is on retail website
+2023-02-25 20:26:06,080 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:26:06,483 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:26:06,969 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:26:07,136 - logger File -INFO - user clicked on login button
+2023-02-25 20:26:07,607 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:26:07,817 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:26:07,955 - logger File -INFO - user clicked on search button
+2023-02-25 20:26:08,236 - logger File -INFO - user clicked on item
+2023-02-25 20:26:08,518 - logger File -INFO - user selected item quantity2
+2023-02-25 20:26:08,712 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:26:09,052 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:26:09,246 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:26:09,444 - logger File -INFO - user clicked on add new address link
+2023-02-25 20:26:10,640 - logger File -INFO - user filled addres information form
+2023-02-25 20:26:10,817 - logger File -INFO - user clicked on add your address button
+2023-02-25 20:26:11,010 - logger File -INFO - user clicked on order new account link 
+2023-02-25 20:26:11,885 - logger File -INFO - user filled bank information form
+2023-02-25 20:26:12,033 - logger File -INFO - user clicked on payment submit buttion
+2023-02-25 20:28:17,255 - logger File -INFO - user is on retail website
+2023-02-25 20:28:17,280 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:28:17,692 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:28:18,185 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:28:18,325 - logger File -INFO - user clicked on login button
+2023-02-25 20:28:18,789 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:28:18,942 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:28:19,071 - logger File -INFO - user clicked on search button
+2023-02-25 20:28:19,336 - logger File -INFO - user clicked on item
+2023-02-25 20:28:19,600 - logger File -INFO - user selected item quantity2
+2023-02-25 20:28:19,765 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:28:20,094 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:28:20,257 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:28:20,435 - logger File -INFO - user clicked on add new address link
+2023-02-25 20:28:21,670 - logger File -INFO - user filled addres information form
+2023-02-25 20:28:21,839 - logger File -INFO - user clicked on add your address button
+2023-02-25 20:28:22,049 - logger File -INFO - user clicked on order new account link 
+2023-02-25 20:28:22,924 - logger File -INFO - user filled bank information form
+2023-02-25 20:28:23,080 - logger File -INFO - user clicked on payment submit buttion
+2023-02-25 20:28:23,242 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:28:23,532 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:39:26,038 - logger File -INFO - user is on retail website
+2023-02-25 20:39:26,061 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:39:26,461 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:39:26,944 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:39:27,089 - logger File -INFO - user clicked on login button
+2023-02-25 20:39:27,561 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:39:27,739 - logger File -INFO - user added searched for Apex Legends
+2023-02-25 20:39:27,881 - logger File -INFO - user clicked on search button
+2023-02-25 20:39:28,178 - logger File -INFO - user clicked on the apex Legen item
+2023-02-25 20:39:28,436 - logger File -INFO - user selected item quantity5
+2023-02-25 20:39:28,653 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:39:28,986 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:39:29,177 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:39:29,309 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:39:29,597 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:41:04,982 - logger File -INFO - user is on retail website
+2023-02-25 20:41:05,006 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:41:05,333 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:41:05,832 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:41:05,982 - logger File -INFO - user clicked on login button
+2023-02-25 20:41:06,429 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:41:06,609 - logger File -INFO - user added searched for Apex Legends
+2023-02-25 20:41:06,737 - logger File -INFO - user clicked on search button
+2023-02-25 20:41:06,998 - logger File -INFO - user clicked on the apex Legen item
+2023-02-25 20:41:07,239 - logger File -INFO - user selected item quantity5
+2023-02-25 20:41:07,411 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:41:07,818 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:41:07,994 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:41:08,146 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:41:08,465 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:58:02,006 - logger File -INFO - user is on retail website
+2023-02-25 20:58:02,057 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:02,724 - logger File -INFO - user searched for product pokemon
+2023-02-25 20:58:02,887 - logger File -INFO - the Product is displayed on home page
+2023-02-25 20:58:07,010 - logger File -INFO - user is on retail website
+2023-02-25 20:58:07,012 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:07,307 - logger File -INFO - User clicked on All Departments
+2023-02-25 20:58:07,435 - logger File -INFO - Electronicsis equal to Electronics
+2023-02-25 20:58:07,513 - logger File -INFO - Computersis equal to Computers
+2023-02-25 20:58:07,589 - logger File -INFO - Smart Homeis equal to Smart Home
+2023-02-25 20:58:07,669 - logger File -INFO - Sportsis equal to Sports
+2023-02-25 20:58:07,744 - logger File -INFO - Automativeis equal to Automative
+2023-02-25 20:58:11,433 - logger File -INFO - user is on retail website
+2023-02-25 20:58:11,435 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:11,835 - logger File -INFO - User clicked on All Departments
+2023-02-25 20:58:12,161 - logger File -INFO - TV & Video is present
+2023-02-25 20:58:16,008 - logger File -INFO - user is on retail website
+2023-02-25 20:58:16,009 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:16,481 - logger File -INFO - User clicked on All Departments
+2023-02-25 20:58:16,824 - logger File -INFO - Smart Home Lightning is present
+2023-02-25 20:58:16,942 - logger File -INFO - Plugs and Outlets is present
+2023-02-25 20:58:20,529 - logger File -INFO - user is on retail website
+2023-02-25 20:58:20,530 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:20,981 - logger File -INFO - User clicked on All Departments
+2023-02-25 20:58:21,329 - logger File -INFO - Athletic Clothing is present
+2023-02-25 20:58:21,442 - logger File -INFO - Exercise & Fitness is present
+2023-02-25 20:58:25,075 - logger File -INFO - user is on retail website
+2023-02-25 20:58:25,076 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:25,563 - logger File -INFO - User clicked on All Departments
+2023-02-25 20:58:25,935 - logger File -INFO - Automative Parts & Accessories is present
+2023-02-25 20:58:29,996 - logger File -INFO - user is on retail website
+2023-02-25 20:58:29,997 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:30,524 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:58:31,126 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:58:31,302 - logger File -INFO - user clicked on login button
+2023-02-25 20:58:31,875 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:58:32,170 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:58:32,308 - logger File -INFO - user clicked on search button
+2023-02-25 20:58:32,674 - logger File -INFO - user clicked on item
+2023-02-25 20:58:33,038 - logger File -INFO - user selected item quantity2
+2023-02-25 20:58:33,311 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:58:33,730 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:58:33,981 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:58:34,260 - logger File -INFO - user clicked on add new address link
+2023-02-25 20:58:36,131 - logger File -INFO - user filled addres information form
+2023-02-25 20:58:36,365 - logger File -INFO - user clicked on add your address button
+2023-02-25 20:58:36,659 - logger File -INFO - user clicked on order new account link 
+2023-02-25 20:58:37,824 - logger File -INFO - user filled bank information form
+2023-02-25 20:58:38,020 - logger File -INFO - user clicked on payment submit buttion
+2023-02-25 20:58:38,800 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:58:39,106 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:58:42,576 - logger File -INFO - user is on retail website
+2023-02-25 20:58:42,578 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:43,112 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:58:43,694 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:58:43,857 - logger File -INFO - user clicked on login button
+2023-02-25 20:58:44,419 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:58:44,648 - logger File -INFO - user added searched for Apex Legends
+2023-02-25 20:58:44,824 - logger File -INFO - user clicked on search button
+2023-02-25 20:58:45,196 - logger File -INFO - user clicked on the apex Legen item
+2023-02-25 20:58:45,527 - logger File -INFO - user selected item quantity5
+2023-02-25 20:58:45,807 - logger File -INFO - user clicked on add to card button
+2023-02-25 20:58:46,195 - logger File -INFO - user clicked on the cart option
+2023-02-25 20:58:46,419 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-25 20:58:46,617 - logger File -INFO - user clicked on or place your ordr button
+2023-02-25 20:58:46,983 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-25 20:58:50,586 - logger File -INFO - user is on retail website
+2023-02-25 20:58:50,586 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-25 20:58:51,141 - logger File -INFO - user click on the Sign in option
+2023-02-25 20:58:51,924 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-25 20:58:52,190 - logger File -INFO - user clicked on login button
+2023-02-25 20:58:52,749 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-25 20:58:53,018 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-25 20:58:53,215 - logger File -INFO - user clicked on search button
+2023-02-25 20:58:53,631 - logger File -INFO - user clicked on item
+2023-02-25 20:58:53,987 - logger File -INFO - user selected item quantity2
+2023-02-25 20:58:54,217 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:48:07,559 - logger File -INFO - user is on retail website
+2023-02-26 17:48:07,588 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:48:07,962 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:48:08,536 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:48:08,705 - logger File -INFO - user clicked on login button
+2023-02-26 17:48:09,266 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:48:09,494 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:48:09,651 - logger File -INFO - user clicked on search button
+2023-02-26 17:48:09,985 - logger File -INFO - user clicked on item
+2023-02-26 17:48:10,335 - logger File -INFO - user selected item quantity2
+2023-02-26 17:48:10,622 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:50:15,410 - logger File -INFO - user is on retail website
+2023-02-26 17:50:15,422 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:50:15,748 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:50:16,284 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:50:16,456 - logger File -INFO - user clicked on login button
+2023-02-26 17:50:17,396 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:50:17,666 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:50:17,819 - logger File -INFO - user clicked on search button
+2023-02-26 17:50:18,112 - logger File -INFO - user clicked on item
+2023-02-26 17:50:18,421 - logger File -INFO - user selected item quantity2
+2023-02-26 17:50:18,638 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:54:09,180 - logger File -INFO - user is on retail website
+2023-02-26 17:54:09,191 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:54:09,537 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:54:10,118 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:54:10,309 - logger File -INFO - user clicked on login button
+2023-02-26 17:54:10,841 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:54:11,077 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:54:11,238 - logger File -INFO - user clicked on search button
+2023-02-26 17:54:11,564 - logger File -INFO - user clicked on item
+2023-02-26 17:54:11,873 - logger File -INFO - user selected item quantity2
+2023-02-26 17:54:12,095 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:54:12,374 - logger File -INFO - user clicked on the cart option
+2023-02-26 17:54:12,614 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-26 17:54:12,894 - logger File -INFO - user clicked on add new address link
+2023-02-26 17:54:14,688 - logger File -INFO - user filled addres information form
+2023-02-26 17:54:14,934 - logger File -INFO - user clicked on add your address button
+2023-02-26 17:54:15,202 - logger File -INFO - user clicked on order new account link 
+2023-02-26 17:54:16,294 - logger File -INFO - user filled bank information form
+2023-02-26 17:54:16,524 - logger File -INFO - user clicked on payment submit buttion
+2023-02-26 17:56:32,322 - logger File -INFO - user is on retail website
+2023-02-26 17:56:32,340 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:56:32,775 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:56:33,311 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:56:33,493 - logger File -INFO - user clicked on login button
+2023-02-26 17:56:34,009 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:56:34,236 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:56:34,374 - logger File -INFO - user clicked on search button
+2023-02-26 17:56:34,644 - logger File -INFO - user clicked on item
+2023-02-26 17:56:34,950 - logger File -INFO - user selected item quantity2
+2023-02-26 17:56:35,168 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:56:35,595 - logger File -INFO - the item from the cart got deleted
+2023-02-26 17:56:35,786 - logger File -INFO - user clicked on the cart option
+2023-02-26 17:57:14,994 - logger File -INFO - user is on retail website
+2023-02-26 17:57:15,003 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:57:15,348 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:57:15,942 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:57:16,104 - logger File -INFO - user clicked on login button
+2023-02-26 17:57:16,648 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:57:16,878 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:57:17,012 - logger File -INFO - user clicked on search button
+2023-02-26 17:57:17,285 - logger File -INFO - user clicked on item
+2023-02-26 17:57:17,592 - logger File -INFO - user selected item quantity2
+2023-02-26 17:57:17,835 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:57:18,226 - logger File -INFO - user clicked on the cart option
+2023-02-26 17:57:18,447 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-26 17:57:18,727 - logger File -INFO - user clicked on add new address link
+2023-02-26 17:57:20,453 - logger File -INFO - user filled addres information form
+2023-02-26 17:57:20,698 - logger File -INFO - user clicked on add your address button
+2023-02-26 17:57:20,982 - logger File -INFO - user clicked on order new account link 
+2023-02-26 17:57:22,046 - logger File -INFO - user filled bank information form
+2023-02-26 17:57:22,250 - logger File -INFO - user clicked on payment submit buttion
+2023-02-26 17:57:22,996 - logger File -INFO - user clicked on or place your ordr button
+2023-02-26 17:57:23,309 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-26 17:59:29,274 - logger File -INFO - user is on retail website
+2023-02-26 17:59:29,285 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 17:59:29,639 - logger File -INFO - user click on the Sign in option
+2023-02-26 17:59:30,167 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 17:59:30,334 - logger File -INFO - user clicked on login button
+2023-02-26 17:59:30,839 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 17:59:31,056 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 17:59:31,198 - logger File -INFO - user clicked on search button
+2023-02-26 17:59:31,488 - logger File -INFO - user clicked on item
+2023-02-26 17:59:31,797 - logger File -INFO - user selected item quantity2
+2023-02-26 17:59:32,040 - logger File -INFO - user clicked on add to card button
+2023-02-26 17:59:32,479 - logger File -INFO - the item from the cart got deleted
+2023-02-26 17:59:32,683 - logger File -INFO - user clicked on the cart option
+2023-02-26 19:36:17,833 - logger File -INFO - user is on retail website
+2023-02-26 19:36:17,843 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 19:36:18,191 - logger File -INFO - user click on the Sign in option
+2023-02-26 19:36:18,571 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 19:36:18,701 - logger File -INFO - user clicked on login button
+2023-02-26 19:36:19,160 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 19:36:19,340 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 19:36:19,466 - logger File -INFO - user clicked on search button
+2023-02-26 19:36:19,711 - logger File -INFO - user clicked on item
+2023-02-26 19:36:19,970 - logger File -INFO - user selected item quantity2
+2023-02-26 19:36:20,167 - logger File -INFO - user clicked on add to card button
+2023-02-26 19:36:20,469 - logger File -INFO - user clicked on the cart option
+2023-02-26 19:36:20,612 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-26 19:36:20,763 - logger File -INFO - user clicked on add new address link
+2023-02-26 19:36:21,930 - logger File -INFO - user filled addres information form
+2023-02-26 19:36:22,099 - logger File -INFO - user clicked on add your address button
+2023-02-26 19:36:22,272 - logger File -INFO - user clicked on order new account link 
+2023-02-26 19:36:23,045 - logger File -INFO - user filled bank information form
+2023-02-26 19:36:23,189 - logger File -INFO - user clicked on payment submit buttion
+2023-02-26 19:36:23,878 - logger File -INFO - user clicked on or place your ordr button
+2023-02-26 19:36:24,168 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-02-26 19:37:07,715 - logger File -INFO - user is on retail website
+2023-02-26 19:37:07,722 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 19:37:08,089 - logger File -INFO - user click on the Sign in option
+2023-02-26 19:37:08,511 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 19:37:08,675 - logger File -INFO - user clicked on login button
+2023-02-26 19:37:09,192 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 19:37:09,409 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 19:37:09,568 - logger File -INFO - user clicked on search button
+2023-02-26 19:37:09,848 - logger File -INFO - user clicked on item
+2023-02-26 19:37:10,147 - logger File -INFO - user selected item quantity2
+2023-02-26 19:37:10,345 - logger File -INFO - user clicked on add to card button
+2023-02-26 19:40:56,546 - logger File -INFO - user is on retail website
+2023-02-26 19:40:56,556 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 19:40:56,946 - logger File -INFO - user click on the Sign in option
+2023-02-26 19:40:57,328 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 19:40:57,457 - logger File -INFO - user clicked on login button
+2023-02-26 19:40:58,780 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 19:40:58,961 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 19:40:59,071 - logger File -INFO - user clicked on search button
+2023-02-26 19:40:59,320 - logger File -INFO - user clicked on item
+2023-02-26 19:40:59,573 - logger File -INFO - user selected item quantity2
+2023-02-26 19:40:59,732 - logger File -INFO - user clicked on add to card button
+2023-02-26 19:41:00,186 - logger File -INFO - item from the cart got deleted
+2023-02-26 20:29:22,775 - logger File -INFO - user is on retail website
+2023-02-26 20:29:22,786 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:29:23,033 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:29:23,508 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:29:23,654 - logger File -INFO - user clicked on login button
+2023-02-26 20:29:24,150 - logger File -INFO - user changed the catagory to Smart Home
+2023-02-26 20:29:24,346 - logger File -INFO - user added searched for kasa outdoor smart plug
+2023-02-26 20:29:24,474 - logger File -INFO - user clicked on search button
+2023-02-26 20:29:24,739 - logger File -INFO - user clicked on item
+2023-02-26 20:29:25,020 - logger File -INFO - user selected item quantity2
+2023-02-26 20:29:25,205 - logger File -INFO - user clicked on add to card button
+2023-02-26 20:29:25,529 - logger File -INFO - user clicked on the cart option
+2023-02-26 20:29:25,685 - logger File -INFO - use clicekd on proceed to checkout button
+2023-02-26 20:29:25,868 - logger File -INFO - user clicked on add new address link
+2023-02-26 20:29:27,136 - logger File -INFO - user filled addres information form
+2023-02-26 20:29:27,324 - logger File -INFO - user clicked on add your address button
+2023-02-26 20:29:27,508 - logger File -INFO - user clicked on order new account link 
+2023-02-26 20:29:28,332 - logger File -INFO - user filled bank information form
+2023-02-26 20:29:28,480 - logger File -INFO - user clicked on payment submit buttion
+2023-02-26 20:29:33,190 - logger File -INFO - user is on retail website
+2023-02-26 20:29:33,191 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:29:33,664 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:29:34,177 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:29:34,308 - logger File -INFO - user clicked on login button
+2023-02-26 20:29:34,712 - logger File -INFO - user clicked on order option
+2023-02-26 20:29:35,200 - logger File -INFO - user clicked on the first order
+2023-02-26 20:29:35,395 - logger File -INFO - user clicked on cancel the order button
+2023-02-26 20:29:35,529 - logger File -INFO - user selected the cancellation reason
+2023-02-26 20:29:35,660 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-26 20:29:35,837 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-26 20:30:12,862 - logger File -INFO - user is on retail website
+2023-02-26 20:30:12,872 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:30:13,265 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:30:13,744 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:30:13,883 - logger File -INFO - user clicked on login button
+2023-02-26 20:30:14,595 - logger File -INFO - user clicked on order option
+2023-02-26 20:30:15,217 - logger File -INFO - user clicked on the first order
+2023-02-26 20:30:40,764 - logger File -INFO - user is on retail website
+2023-02-26 20:30:40,776 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:30:41,114 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:30:41,576 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:30:41,718 - logger File -INFO - user clicked on login button
+2023-02-26 20:30:42,113 - logger File -INFO - user clicked on order option
+2023-02-26 20:30:42,690 - logger File -INFO - user clicked on the first order
+2023-02-26 20:30:42,897 - logger File -INFO - user clicked on cancel the order button
+2023-02-26 20:30:43,072 - logger File -INFO - user selected the cancellation reason
+2023-02-26 20:30:43,238 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-26 20:30:43,415 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-26 20:46:05,459 - logger File -INFO - user is on retail website
+2023-02-26 20:46:05,470 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:46:05,863 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:46:06,362 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:46:06,510 - logger File -INFO - user clicked on login button
+2023-02-26 20:46:06,954 - logger File -INFO - user clicked on order option
+2023-02-26 20:49:10,507 - logger File -INFO - user is on retail website
+2023-02-26 20:49:10,515 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:49:10,968 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:49:11,370 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:49:11,505 - logger File -INFO - user clicked on login button
+2023-02-26 20:49:11,912 - logger File -INFO - user clicked on order option
+2023-02-26 20:49:12,427 - logger File -INFO - user clicked on the first order
+2023-02-26 20:50:16,829 - logger File -INFO - user is on retail website
+2023-02-26 20:50:16,842 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:50:17,271 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:50:17,727 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:50:17,862 - logger File -INFO - user clicked on login button
+2023-02-26 20:50:18,303 - logger File -INFO - user clicked on order option
+2023-02-26 20:50:18,904 - logger File -INFO - user clicked on the first order
+2023-02-26 20:52:48,039 - logger File -INFO - user is on retail website
+2023-02-26 20:52:48,050 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:52:48,442 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:52:48,881 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:52:49,020 - logger File -INFO - user clicked on login button
+2023-02-26 20:52:49,417 - logger File -INFO - user clicked on order option
+2023-02-26 20:52:50,057 - logger File -INFO - user clicked on the first order
+2023-02-26 20:54:23,217 - logger File -INFO - user is on retail website
+2023-02-26 20:54:23,226 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 20:54:23,552 - logger File -INFO - user click on the Sign in option
+2023-02-26 20:54:24,006 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 20:54:24,149 - logger File -INFO - user clicked on login button
+2023-02-26 20:54:24,554 - logger File -INFO - user clicked on order option
+2023-02-26 20:54:25,143 - logger File -INFO - user clicked on the first order
+2023-02-26 21:07:05,886 - logger File -INFO - user is on retail website
+2023-02-26 21:07:05,896 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:07:06,286 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:07:06,706 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:07:06,850 - logger File -INFO - user clicked on login button
+2023-02-26 21:07:07,260 - logger File -INFO - user clicked on order option
+2023-02-26 21:09:34,879 - logger File -INFO - user is on retail website
+2023-02-26 21:09:34,891 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:09:35,176 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:09:35,644 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:09:35,782 - logger File -INFO - user clicked on login button
+2023-02-26 21:09:36,203 - logger File -INFO - user clicked on order option
+2023-02-26 21:12:34,999 - logger File -INFO - user is on retail website
+2023-02-26 21:12:35,007 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:12:35,417 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:12:35,852 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:12:35,991 - logger File -INFO - user clicked on login button
+2023-02-26 21:12:36,392 - logger File -INFO - user clicked on order option
+2023-02-26 21:14:16,743 - logger File -INFO - user is on retail website
+2023-02-26 21:14:16,752 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:14:17,004 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:14:17,458 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:14:17,586 - logger File -INFO - user clicked on login button
+2023-02-26 21:14:17,982 - logger File -INFO - user clicked on order option
+2023-02-26 21:16:21,865 - logger File -INFO - user is on retail website
+2023-02-26 21:16:21,876 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:16:22,149 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:16:22,608 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:16:22,746 - logger File -INFO - user clicked on login button
+2023-02-26 21:16:23,130 - logger File -INFO - user clicked on order option
+2023-02-26 21:16:23,702 - logger File -INFO - user clicked on the first order
+2023-02-26 21:16:23,857 - logger File -INFO - user clicked on cancel the order button
+2023-02-26 21:16:24,009 - logger File -INFO - user selected the cancellation reason
+2023-02-26 21:16:24,143 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-26 21:16:24,321 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-26 21:17:35,963 - logger File -INFO - user is on retail website
+2023-02-26 21:17:35,976 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:17:36,229 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:17:36,680 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:17:36,815 - logger File -INFO - user clicked on login button
+2023-02-26 21:17:37,225 - logger File -INFO - user clicked on order option
+2023-02-26 21:19:21,730 - logger File -INFO - user is on retail website
+2023-02-26 21:19:21,742 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:19:22,152 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:19:22,576 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:19:22,685 - logger File -INFO - user clicked on login button
+2023-02-26 21:19:23,157 - logger File -INFO - user clicked on order option
+2023-02-26 21:19:23,697 - logger File -INFO - user clicked on the first order
+2023-02-26 21:20:54,760 - logger File -INFO - user is on retail website
+2023-02-26 21:20:54,776 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:20:55,151 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:20:55,611 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:20:55,756 - logger File -INFO - user clicked on login button
+2023-02-26 21:20:56,164 - logger File -INFO - user clicked on order option
+2023-02-26 21:20:56,732 - logger File -INFO - user clicked on the first order
+2023-02-26 21:22:27,511 - logger File -INFO - user is on retail website
+2023-02-26 21:22:27,528 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:22:27,955 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:22:28,402 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:22:28,538 - logger File -INFO - user clicked on login button
+2023-02-26 21:22:28,966 - logger File -INFO - user clicked on order option
+2023-02-26 21:22:29,507 - logger File -INFO - user clicked on the first order
+2023-02-26 21:25:45,363 - logger File -INFO - user is on retail website
+2023-02-26 21:25:45,376 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 21:25:45,782 - logger File -INFO - user click on the Sign in option
+2023-02-26 21:25:46,259 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 21:25:46,390 - logger File -INFO - user clicked on login button
+2023-02-26 21:25:46,789 - logger File -INFO - user clicked on order option
+2023-02-26 21:25:47,265 - logger File -INFO - user clicked on the first order
+2023-02-26 21:25:47,449 - logger File -INFO - user clicked on cancel the order button
+2023-02-26 21:25:47,610 - logger File -INFO - user selected the cancellation reason
+2023-02-26 21:25:47,753 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-26 21:25:47,926 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-26 22:41:20,818 - logger File -INFO - user is on retail website
+2023-02-26 22:41:20,826 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 22:41:21,206 - logger File -INFO - user click on the Sign in option
+2023-02-26 22:41:21,739 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 22:41:21,869 - logger File -INFO - user clicked on login button
+2023-02-26 22:41:22,259 - logger File -INFO - user clicked on order option
+2023-02-26 22:41:22,789 - logger File -INFO - user clicked on the first order
+2023-02-26 22:42:57,214 - logger File -INFO - user is on retail website
+2023-02-26 22:42:57,222 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 22:42:57,472 - logger File -INFO - user click on the Sign in option
+2023-02-26 22:42:57,917 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 22:42:58,048 - logger File -INFO - user clicked on login button
+2023-02-26 22:42:58,521 - logger File -INFO - user clicked on order option
+2023-02-26 22:42:58,963 - logger File -INFO - user clicked on the first order
+2023-02-26 22:54:53,553 - logger File -INFO - user is on retail website
+2023-02-26 22:54:53,565 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 22:54:53,928 - logger File -INFO - user click on the Sign in option
+2023-02-26 22:54:54,352 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 22:54:54,488 - logger File -INFO - user clicked on login button
+2023-02-26 22:54:55,007 - logger File -INFO - user clicked on order option
+2023-02-26 22:54:55,487 - logger File -INFO - user clicked on the first order
+2023-02-26 22:56:13,121 - logger File -INFO - user is on retail website
+2023-02-26 22:56:13,129 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 22:56:13,385 - logger File -INFO - user click on the Sign in option
+2023-02-26 22:56:13,855 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 22:56:13,988 - logger File -INFO - user clicked on login button
+2023-02-26 22:56:14,461 - logger File -INFO - user clicked on order option
+2023-02-26 22:56:14,862 - logger File -INFO - user clicked on the first order
+2023-02-26 22:57:22,666 - logger File -INFO - user is on retail website
+2023-02-26 22:57:22,674 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 22:57:23,033 - logger File -INFO - user click on the Sign in option
+2023-02-26 22:57:23,468 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 22:57:23,598 - logger File -INFO - user clicked on login button
+2023-02-26 22:57:23,971 - logger File -INFO - user clicked on order option
+2023-02-26 22:57:24,436 - logger File -INFO - user clicked on the first order
+2023-02-26 23:00:08,740 - logger File -INFO - user is on retail website
+2023-02-26 23:00:08,747 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 23:00:09,118 - logger File -INFO - user click on the Sign in option
+2023-02-26 23:00:09,553 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 23:00:09,679 - logger File -INFO - user clicked on login button
+2023-02-26 23:00:10,077 - logger File -INFO - user clicked on order option
+2023-02-26 23:00:10,534 - logger File -INFO - user clicked on the first order
+2023-02-26 23:03:31,743 - logger File -INFO - user is on retail website
+2023-02-26 23:03:31,754 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 23:03:32,133 - logger File -INFO - user click on the Sign in option
+2023-02-26 23:03:32,574 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 23:03:32,707 - logger File -INFO - user clicked on login button
+2023-02-26 23:03:33,085 - logger File -INFO - user clicked on order option
+2023-02-26 23:03:33,538 - logger File -INFO - user clicked on the first order
+2023-02-26 23:09:27,799 - logger File -INFO - user is on retail website
+2023-02-26 23:09:27,806 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 23:09:28,183 - logger File -INFO - user click on the Sign in option
+2023-02-26 23:09:28,617 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 23:09:28,756 - logger File -INFO - user clicked on login button
+2023-02-26 23:09:29,235 - logger File -INFO - user clicked on order option
+2023-02-26 23:09:29,623 - logger File -INFO - user clicked on the first order
+2023-02-26 23:13:35,023 - logger File -INFO - user is on retail website
+2023-02-26 23:13:35,032 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-26 23:13:35,449 - logger File -INFO - user click on the Sign in option
+2023-02-26 23:13:35,873 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-26 23:13:35,990 - logger File -INFO - user clicked on login button
+2023-02-26 23:13:36,373 - logger File -INFO - user clicked on order option
+2023-02-26 23:13:36,882 - logger File -INFO - user clicked on the first order
+2023-02-27 10:37:05,274 - logger File -INFO - user is on retail website
+2023-02-27 10:37:05,285 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 10:37:05,619 - logger File -INFO - user click on the Sign in option
+2023-02-27 10:37:06,010 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 10:37:06,147 - logger File -INFO - user clicked on login button
+2023-02-27 10:37:06,624 - logger File -INFO - user clicked on order option
+2023-02-27 10:37:07,039 - logger File -INFO - user clicked on the first order
+2023-02-27 10:37:07,215 - logger File -INFO - user clicked on return items button
+2023-02-27 10:37:07,361 - logger File -INFO - user selected order return reason
+2023-02-27 10:37:07,479 - logger File -INFO - user selected the drop off service
+2023-02-27 10:37:07,609 - logger File -INFO - user clicked on return order button
+2023-02-27 10:38:40,311 - logger File -INFO - user is on retail website
+2023-02-27 10:38:40,322 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 10:38:40,601 - logger File -INFO - user click on the Sign in option
+2023-02-27 10:38:41,049 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 10:38:41,198 - logger File -INFO - user clicked on login button
+2023-02-27 10:38:41,753 - logger File -INFO - user clicked on order option
+2023-02-27 10:38:42,158 - logger File -INFO - user clicked on the first order
+2023-02-27 10:38:42,329 - logger File -INFO - user clicked on return items button
+2023-02-27 10:38:42,481 - logger File -INFO - user selected order return reason
+2023-02-27 10:38:42,610 - logger File -INFO - user selected the drop off service
+2023-02-27 10:38:42,740 - logger File -INFO - user clicked on return order button
+2023-02-27 10:39:57,036 - logger File -INFO - user is on retail website
+2023-02-27 10:39:57,048 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 10:39:57,296 - logger File -INFO - user click on the Sign in option
+2023-02-27 10:39:57,676 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 10:39:57,809 - logger File -INFO - user clicked on login button
+2023-02-27 10:39:58,307 - logger File -INFO - user clicked on order option
+2023-02-27 10:39:58,745 - logger File -INFO - user clicked on the first order
+2023-02-27 10:39:58,916 - logger File -INFO - user clicked on return items button
+2023-02-27 10:39:59,067 - logger File -INFO - user selected order return reason
+2023-02-27 10:39:59,195 - logger File -INFO - user selected the drop off service
+2023-02-27 10:39:59,350 - logger File -INFO - user clicked on return order button
+2023-02-27 10:39:59,529 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 11:12:38,457 - logger File -INFO - user is on retail website
+2023-02-27 11:12:38,469 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:12:38,767 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:12:39,269 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:12:39,406 - logger File -INFO - user clicked on login button
+2023-02-27 11:12:39,925 - logger File -INFO - user clicked on order option
+2023-02-27 11:12:40,358 - logger File -INFO - user clicked on the first order
+2023-02-27 11:12:40,509 - logger File -INFO - user clicked on order review button
+2023-02-27 11:12:40,991 - logger File -INFO - user filled review form
+2023-02-27 11:14:49,261 - logger File -INFO - user is on retail website
+2023-02-27 11:14:49,271 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:14:49,657 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:14:50,164 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:14:50,280 - logger File -INFO - user clicked on login button
+2023-02-27 11:14:50,819 - logger File -INFO - user clicked on order option
+2023-02-27 11:14:51,335 - logger File -INFO - user clicked on the first order
+2023-02-27 11:14:51,484 - logger File -INFO - user clicked on order review button
+2023-02-27 11:14:52,014 - logger File -INFO - user filled review form
+2023-02-27 11:14:52,195 - logger File -INFO - user clicked on order review button
+2023-02-27 11:16:12,763 - logger File -INFO - user is on retail website
+2023-02-27 11:16:12,771 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:16:13,007 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:16:13,406 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:16:13,558 - logger File -INFO - user clicked on login button
+2023-02-27 11:16:14,033 - logger File -INFO - user clicked on order option
+2023-02-27 11:16:14,449 - logger File -INFO - user clicked on the first order
+2023-02-27 11:16:14,605 - logger File -INFO - user clicked on order review button
+2023-02-27 11:16:15,099 - logger File -INFO - user filled review form
+2023-02-27 11:16:15,243 - logger File -INFO - user clicked on order review button
+2023-02-27 11:17:10,693 - logger File -INFO - user is on retail website
+2023-02-27 11:17:10,707 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:17:11,032 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:17:11,377 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:17:11,505 - logger File -INFO - user clicked on login button
+2023-02-27 11:17:11,964 - logger File -INFO - user clicked on order option
+2023-02-27 11:17:12,372 - logger File -INFO - user clicked on the first order
+2023-02-27 11:17:12,506 - logger File -INFO - user clicked on order review button
+2023-02-27 11:17:12,960 - logger File -INFO - user filled review form
+2023-02-27 11:17:13,077 - logger File -INFO - user clicked on order review button
+2023-02-27 11:19:45,091 - logger File -INFO - user is on retail website
+2023-02-27 11:19:45,101 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:19:45,386 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:19:45,788 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:19:45,929 - logger File -INFO - user clicked on login button
+2023-02-27 11:19:46,401 - logger File -INFO - user clicked on order option
+2023-02-27 11:19:46,826 - logger File -INFO - user clicked on the first order
+2023-02-27 11:19:46,969 - logger File -INFO - user clicked on order review button
+2023-02-27 11:19:47,423 - logger File -INFO - user filled review form
+2023-02-27 11:19:47,546 - logger File -INFO - user clicked on order review button
+2023-02-27 11:27:00,924 - logger File -INFO - user is on retail website
+2023-02-27 11:27:00,934 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:27:01,325 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:27:01,731 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:27:01,858 - logger File -INFO - user clicked on login button
+2023-02-27 11:27:02,372 - logger File -INFO - user clicked on order option
+2023-02-27 11:27:02,788 - logger File -INFO - user clicked on the first order
+2023-02-27 11:27:02,942 - logger File -INFO - user clicked on order review button
+2023-02-27 11:27:03,521 - logger File -INFO - user filled review form
+2023-02-27 11:27:03,680 - logger File -INFO - user clicked on order review button
+2023-02-27 11:31:27,605 - logger File -INFO - user is on retail website
+2023-02-27 11:31:27,614 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:31:27,924 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:31:28,341 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:31:28,474 - logger File -INFO - user clicked on login button
+2023-02-27 11:31:29,185 - logger File -INFO - user clicked on order option
+2023-02-27 11:31:29,379 - logger File -INFO - user clicked on the first order
+2023-02-27 11:31:29,529 - logger File -INFO - user clicked on order review button
+2023-02-27 11:31:30,045 - logger File -INFO - user filled review form
+2023-02-27 11:31:30,197 - logger File -INFO - user clicked on order review button
+2023-02-27 11:31:30,933 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 11:32:36,684 - logger File -INFO - user is on retail website
+2023-02-27 11:32:36,696 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:32:37,130 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:32:37,525 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:32:37,662 - logger File -INFO - user clicked on login button
+2023-02-27 11:32:38,152 - logger File -INFO - user clicked on order option
+2023-02-27 11:32:38,594 - logger File -INFO - user clicked on the first order
+2023-02-27 11:32:38,751 - logger File -INFO - user clicked on order review button
+2023-02-27 11:32:39,264 - logger File -INFO - user filled review form
+2023-02-27 11:32:39,390 - logger File -INFO - user clicked on order review button
+2023-02-27 11:32:40,131 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 11:47:44,698 - logger File -INFO - user is on retail website
+2023-02-27 11:47:44,710 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:47:45,018 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:47:45,446 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:47:45,570 - logger File -INFO - user clicked on login button
+2023-02-27 11:47:46,010 - logger File -INFO - user clicked on order option
+2023-02-27 11:47:46,581 - logger File -INFO - user clicked on the first order
+2023-02-27 11:47:46,769 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 11:47:46,938 - logger File -INFO - user selected the cancellation reason
+2023-02-27 11:47:47,075 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 11:47:47,243 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 11:47:47,518 - logger File -INFO - user clicked on order option
+2023-02-27 11:47:47,684 - logger File -INFO - user clicked on the first order
+2023-02-27 11:47:47,995 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 11:49:49,209 - logger File -INFO - user is on retail website
+2023-02-27 11:49:49,238 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:49:49,642 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:49:50,122 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:49:50,257 - logger File -INFO - user clicked on login button
+2023-02-27 11:49:50,642 - logger File -INFO - user clicked on order option
+2023-02-27 11:49:51,081 - logger File -INFO - user clicked on the first order
+2023-02-27 11:49:51,205 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 11:49:51,324 - logger File -INFO - user selected the cancellation reason
+2023-02-27 11:49:51,434 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 11:49:51,595 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 11:49:51,792 - logger File -INFO - user clicked on order option
+2023-02-27 11:49:51,920 - logger File -INFO - user clicked on the first order
+2023-02-27 11:49:52,190 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 11:53:03,554 - logger File -INFO - user is on retail website
+2023-02-27 11:53:03,586 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:53:03,905 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:53:04,252 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:53:04,370 - logger File -INFO - user clicked on login button
+2023-02-27 11:53:05,252 - logger File -INFO - user clicked on order option
+2023-02-27 11:53:05,769 - logger File -INFO - user clicked on the first order
+2023-02-27 11:53:05,920 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 11:53:06,045 - logger File -INFO - user selected the cancellation reason
+2023-02-27 11:53:06,158 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 11:53:06,326 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 11:53:06,501 - logger File -INFO - user clicked on order option
+2023-02-27 11:53:06,615 - logger File -INFO - user clicked on the first order
+2023-02-27 11:53:06,849 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 11:53:09,408 - logger File -INFO - user is on retail website
+2023-02-27 11:53:09,410 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:53:09,752 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:53:10,087 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:53:10,211 - logger File -INFO - user clicked on login button
+2023-02-27 11:53:10,601 - logger File -INFO - user clicked on order option
+2023-02-27 11:53:11,056 - logger File -INFO - user clicked on the first order
+2023-02-27 11:53:44,350 - logger File -INFO - user is on retail website
+2023-02-27 11:53:44,351 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:53:44,561 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:53:44,987 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:53:45,112 - logger File -INFO - user clicked on login button
+2023-02-27 11:53:45,588 - logger File -INFO - user clicked on order option
+2023-02-27 11:53:46,019 - logger File -INFO - user clicked on the first order
+2023-02-27 11:53:46,163 - logger File -INFO - user clicked on order review button
+2023-02-27 11:53:46,594 - logger File -INFO - user filled review form
+2023-02-27 11:53:46,700 - logger File -INFO - user clicked on order review button
+2023-02-27 11:53:47,412 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 11:57:58,041 - logger File -INFO - user is on retail website
+2023-02-27 11:57:58,071 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:57:58,400 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:57:58,790 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:57:58,884 - logger File -INFO - user clicked on login button
+2023-02-27 11:57:59,265 - logger File -INFO - user clicked on order option
+2023-02-27 11:57:59,770 - logger File -INFO - user clicked on the first order
+2023-02-27 11:58:25,917 - logger File -INFO - user is on retail website
+2023-02-27 11:58:25,949 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 11:58:26,285 - logger File -INFO - user click on the Sign in option
+2023-02-27 11:58:26,694 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 11:58:26,794 - logger File -INFO - user clicked on login button
+2023-02-27 11:58:27,174 - logger File -INFO - user clicked on order option
+2023-02-27 11:58:27,727 - logger File -INFO - user clicked on the first order
+2023-02-27 11:58:27,889 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 11:58:28,027 - logger File -INFO - user selected the cancellation reason
+2023-02-27 11:58:28,157 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 11:58:28,328 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 11:58:28,588 - logger File -INFO - user clicked on order option
+2023-02-27 11:58:28,738 - logger File -INFO - user clicked on the first order
+2023-02-27 11:58:28,991 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 12:00:45,871 - logger File -INFO - user is on retail website
+2023-02-27 12:00:45,889 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:00:46,244 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:00:46,613 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:00:46,709 - logger File -INFO - user clicked on login button
+2023-02-27 12:00:47,108 - logger File -INFO - user clicked on order option
+2023-02-27 12:00:47,628 - logger File -INFO - user clicked on the first order
+2023-02-27 12:00:47,791 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:00:47,927 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:00:48,040 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:00:48,206 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:00:48,480 - logger File -INFO - user clicked on order option
+2023-02-27 12:00:48,627 - logger File -INFO - user clicked on the first order
+2023-02-27 12:00:48,869 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 12:02:14,506 - logger File -INFO - user is on retail website
+2023-02-27 12:02:14,538 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:02:14,898 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:02:15,267 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:02:15,374 - logger File -INFO - user clicked on login button
+2023-02-27 12:02:15,752 - logger File -INFO - user clicked on order option
+2023-02-27 12:02:16,263 - logger File -INFO - user clicked on the first order
+2023-02-27 12:02:16,428 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:02:16,581 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:02:16,721 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:02:16,878 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:02:17,133 - logger File -INFO - user clicked on order option
+2023-02-27 12:02:17,276 - logger File -INFO - user clicked on the first order
+2023-02-27 12:02:17,567 - logger File -INFO - user clicked on or place your ordr button
+2023-02-27 12:15:10,585 - logger File -INFO - user is on retail website
+2023-02-27 12:15:10,610 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:15:10,891 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:15:11,287 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:15:11,407 - logger File -INFO - user clicked on login button
+2023-02-27 12:15:11,980 - logger File -INFO - user clicked on order option
+2023-02-27 12:15:12,605 - logger File -INFO - user clicked on the first order
+2023-02-27 12:15:12,773 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:15:12,927 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:15:13,049 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:15:13,218 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:15:13,485 - logger File -INFO - user clicked on order option
+2023-02-27 12:15:13,647 - logger File -INFO - user clicked on the first order
+2023-02-27 12:18:59,970 - logger File -INFO - user is on retail website
+2023-02-27 12:19:00,005 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:19:00,336 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:19:00,718 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:19:00,817 - logger File -INFO - user clicked on login button
+2023-02-27 12:19:01,207 - logger File -INFO - user clicked on order option
+2023-02-27 12:19:01,744 - logger File -INFO - user clicked on the first order
+2023-02-27 12:19:01,910 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:19:02,049 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:19:02,177 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:19:02,346 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:19:02,605 - logger File -INFO - user clicked on order option
+2023-02-27 12:19:02,766 - logger File -INFO - user clicked on the first order
+2023-02-27 12:23:56,449 - logger File -INFO - user is on retail website
+2023-02-27 12:23:56,480 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:23:56,926 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:23:57,416 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:23:57,547 - logger File -INFO - user clicked on login button
+2023-02-27 12:23:57,945 - logger File -INFO - user clicked on order option
+2023-02-27 12:23:58,618 - logger File -INFO - user clicked on the first order
+2023-02-27 12:23:58,803 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:23:58,969 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:23:59,110 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:23:59,272 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:23:59,601 - logger File -INFO - user clicked on order option
+2023-02-27 12:23:59,830 - logger File -INFO - user clicked on the first order
+2023-02-27 12:27:50,832 - logger File -INFO - user is on retail website
+2023-02-27 12:27:50,863 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:27:51,226 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:27:51,676 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:27:51,798 - logger File -INFO - user clicked on login button
+2023-02-27 12:27:52,205 - logger File -INFO - user clicked on order option
+2023-02-27 12:27:52,770 - logger File -INFO - user clicked on the first order
+2023-02-27 12:41:57,704 - logger File -INFO - user is on retail website
+2023-02-27 12:41:57,752 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:41:58,025 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:41:58,424 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:41:58,556 - logger File -INFO - user clicked on login button
+2023-02-27 12:41:58,965 - logger File -INFO - user clicked on order option
+2023-02-27 12:41:59,570 - logger File -INFO - user clicked on the first order
+2023-02-27 12:41:59,751 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:41:59,909 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:42:00,073 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:42:00,239 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:42:00,543 - logger File -INFO - user clicked on order option
+2023-02-27 12:42:00,767 - logger File -INFO - user clicked on the first order
+2023-02-27 12:42:04,956 - logger File -INFO - user is on retail website
+2023-02-27 12:42:04,976 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:42:05,403 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:42:05,840 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:42:05,985 - logger File -INFO - user clicked on login button
+2023-02-27 12:42:06,389 - logger File -INFO - user clicked on order option
+2023-02-27 12:42:06,940 - logger File -INFO - user clicked on second order
+2023-02-27 12:42:07,128 - logger File -INFO - user clicked on return items button
+2023-02-27 12:42:07,274 - logger File -INFO - user selected order return reason
+2023-02-27 12:42:07,400 - logger File -INFO - user selected the drop off service
+2023-02-27 12:42:07,522 - logger File -INFO - user clicked on return order button
+2023-02-27 12:42:07,673 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 12:42:10,770 - logger File -INFO - user is on retail website
+2023-02-27 12:42:10,771 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:42:11,193 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:42:11,619 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:42:11,760 - logger File -INFO - user clicked on login button
+2023-02-27 12:42:12,172 - logger File -INFO - user clicked on order option
+2023-02-27 12:42:12,808 - logger File -INFO - user clicked on order review button
+2023-02-27 12:42:13,363 - logger File -INFO - user filled review form
+2023-02-27 12:42:13,508 - logger File -INFO - user clicked on order review button
+2023-02-27 12:42:14,261 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:45:00,296 - logger File -INFO - user is on retail website
+2023-02-27 12:45:00,329 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:45:00,677 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:45:01,136 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:45:01,287 - logger File -INFO - user clicked on login button
+2023-02-27 12:45:02,005 - logger File -INFO - user clicked on order option
+2023-02-27 12:45:02,633 - logger File -INFO - user clicked on the first order
+2023-02-27 12:45:02,827 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:45:02,985 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:45:03,128 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:45:03,297 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:45:03,613 - logger File -INFO - user clicked on order option
+2023-02-27 12:45:03,841 - logger File -INFO - user clicked on the first order
+2023-02-27 12:45:06,936 - logger File -INFO - user is on retail website
+2023-02-27 12:45:06,937 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:45:07,380 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:45:07,873 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:45:07,999 - logger File -INFO - user clicked on login button
+2023-02-27 12:45:08,416 - logger File -INFO - user clicked on order option
+2023-02-27 12:45:09,042 - logger File -INFO - user clicked on second order
+2023-02-27 12:45:09,243 - logger File -INFO - user clicked on return items button
+2023-02-27 12:45:09,402 - logger File -INFO - user selected order return reason
+2023-02-27 12:45:09,543 - logger File -INFO - user selected the drop off service
+2023-02-27 12:45:09,682 - logger File -INFO - user clicked on return order button
+2023-02-27 12:45:09,875 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 12:45:12,927 - logger File -INFO - user is on retail website
+2023-02-27 12:45:12,929 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:45:13,344 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:45:13,835 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:45:13,965 - logger File -INFO - user clicked on login button
+2023-02-27 12:45:14,814 - logger File -INFO - user clicked on order option
+2023-02-27 12:45:15,272 - logger File -INFO - user clicked on order review button
+2023-02-27 12:45:15,628 - logger File -INFO - user filled review form
+2023-02-27 12:45:15,752 - logger File -INFO - user clicked on order review button
+2023-02-27 12:45:16,453 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:46:31,448 - logger File -INFO - user is on retail website
+2023-02-27 12:46:31,476 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:46:31,826 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:46:32,276 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:46:32,416 - logger File -INFO - user clicked on login button
+2023-02-27 12:46:32,815 - logger File -INFO - user clicked on order option
+2023-02-27 12:46:33,266 - logger File -INFO - user clicked on the first order
+2023-02-27 12:46:33,389 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:46:33,515 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:46:33,619 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:46:33,783 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:46:33,997 - logger File -INFO - user clicked on order option
+2023-02-27 12:46:34,206 - logger File -INFO - user clicked on the first order
+2023-02-27 12:46:37,153 - logger File -INFO - user is on retail website
+2023-02-27 12:46:37,154 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:46:37,566 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:46:38,016 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:46:38,118 - logger File -INFO - user clicked on login button
+2023-02-27 12:46:38,521 - logger File -INFO - user clicked on order option
+2023-02-27 12:46:39,195 - logger File -INFO - user clicked on second order
+2023-02-27 12:47:01,971 - logger File -INFO - user is on retail website
+2023-02-27 12:47:01,972 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:47:02,457 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:47:03,122 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:47:03,275 - logger File -INFO - user clicked on login button
+2023-02-27 12:47:03,666 - logger File -INFO - user clicked on order option
+2023-02-27 12:47:04,392 - logger File -INFO - user clicked on order review button
+2023-02-27 12:47:05,066 - logger File -INFO - user filled review form
+2023-02-27 12:47:05,214 - logger File -INFO - user clicked on order review button
+2023-02-27 12:47:05,969 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:50:51,078 - logger File -INFO - user is on retail website
+2023-02-27 12:50:51,097 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:50:51,451 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:50:51,810 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:50:51,935 - logger File -INFO - user clicked on login button
+2023-02-27 12:50:52,310 - logger File -INFO - user clicked on order option
+2023-02-27 12:50:52,845 - logger File -INFO - user clicked on the first order
+2023-02-27 12:50:53,004 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:50:53,141 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:50:53,267 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:50:53,424 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:50:53,674 - logger File -INFO - user clicked on order option
+2023-02-27 12:50:53,868 - logger File -INFO - user clicked on the first order
+2023-02-27 12:50:56,273 - logger File -INFO - user is on retail website
+2023-02-27 12:50:56,275 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:50:56,630 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:50:57,011 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:50:57,113 - logger File -INFO - user clicked on login button
+2023-02-27 12:50:57,490 - logger File -INFO - user clicked on order option
+2023-02-27 12:50:58,012 - logger File -INFO - user clicked on second order
+2023-02-27 12:51:32,255 - logger File -INFO - user is on retail website
+2023-02-27 12:51:32,256 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:51:32,462 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:51:32,840 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:51:32,967 - logger File -INFO - user clicked on login button
+2023-02-27 12:51:33,535 - logger File -INFO - user clicked on order option
+2023-02-27 12:51:34,087 - logger File -INFO - user clicked on order review button
+2023-02-27 12:51:34,586 - logger File -INFO - user filled review form
+2023-02-27 12:51:34,695 - logger File -INFO - user clicked on order review button
+2023-02-27 12:51:35,415 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:52:18,521 - logger File -INFO - user is on retail website
+2023-02-27 12:52:18,545 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:52:18,991 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:52:19,336 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:52:19,462 - logger File -INFO - user clicked on login button
+2023-02-27 12:52:19,841 - logger File -INFO - user clicked on order option
+2023-02-27 12:52:20,412 - logger File -INFO - user clicked on the first order
+2023-02-27 12:52:20,568 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:52:20,707 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:52:20,828 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:52:20,993 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:52:21,227 - logger File -INFO - user clicked on order option
+2023-02-27 12:52:21,434 - logger File -INFO - user clicked on the first order
+2023-02-27 12:52:23,900 - logger File -INFO - user is on retail website
+2023-02-27 12:52:23,901 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:52:24,218 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:52:24,545 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:52:24,651 - logger File -INFO - user clicked on login button
+2023-02-27 12:52:25,028 - logger File -INFO - user clicked on order option
+2023-02-27 12:52:25,568 - logger File -INFO - user clicked on second order
+2023-02-27 12:52:25,728 - logger File -INFO - user clicked on return items button
+2023-02-27 12:52:25,863 - logger File -INFO - user selected order return reason
+2023-02-27 12:52:25,979 - logger File -INFO - user selected the drop off service
+2023-02-27 12:52:26,100 - logger File -INFO - user clicked on return order button
+2023-02-27 12:52:26,258 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 12:52:28,600 - logger File -INFO - user is on retail website
+2023-02-27 12:52:28,601 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:52:28,826 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:52:29,261 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:52:29,374 - logger File -INFO - user clicked on login button
+2023-02-27 12:52:29,814 - logger File -INFO - user clicked on order option
+2023-02-27 12:52:30,278 - logger File -INFO - user clicked on order review button
+2023-02-27 12:52:30,780 - logger File -INFO - user filled review form
+2023-02-27 12:52:30,918 - logger File -INFO - user clicked on order review button
+2023-02-27 12:52:31,651 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:54:46,248 - logger File -INFO - user is on retail website
+2023-02-27 12:54:46,266 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:54:46,698 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:54:47,133 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:54:47,259 - logger File -INFO - user clicked on login button
+2023-02-27 12:54:47,661 - logger File -INFO - user clicked on order option
+2023-02-27 12:54:48,126 - logger File -INFO - user clicked on the first order
+2023-02-27 12:54:48,251 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:54:48,366 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:54:48,451 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:54:48,615 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:54:48,817 - logger File -INFO - user clicked on order option
+2023-02-27 12:54:48,958 - logger File -INFO - user clicked on the first order
+2023-02-27 12:54:51,307 - logger File -INFO - user is on retail website
+2023-02-27 12:54:51,308 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:54:51,682 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:54:52,041 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:54:52,122 - logger File -INFO - user clicked on login button
+2023-02-27 12:54:52,508 - logger File -INFO - user clicked on order option
+2023-02-27 12:54:53,034 - logger File -INFO - user clicked on second order
+2023-02-27 12:55:23,766 - logger File -INFO - user is on retail website
+2023-02-27 12:55:23,767 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:55:24,109 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:55:24,508 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:55:24,615 - logger File -INFO - user clicked on login button
+2023-02-27 12:55:24,987 - logger File -INFO - user clicked on order option
+2023-02-27 12:55:25,448 - logger File -INFO - user clicked on order review button
+2023-02-27 12:55:25,934 - logger File -INFO - user filled review form
+2023-02-27 12:55:26,075 - logger File -INFO - user clicked on order review button
+2023-02-27 12:55:26,793 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 12:57:51,302 - logger File -INFO - user is on retail website
+2023-02-27 12:57:51,321 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:57:51,768 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:57:52,266 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:57:52,419 - logger File -INFO - user clicked on login button
+2023-02-27 12:57:52,809 - logger File -INFO - user clicked on order option
+2023-02-27 12:57:53,309 - logger File -INFO - user clicked on the first order
+2023-02-27 12:57:53,432 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 12:57:53,542 - logger File -INFO - user selected the cancellation reason
+2023-02-27 12:57:53,631 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 12:57:53,791 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 12:57:54,005 - logger File -INFO - user clicked on order option
+2023-02-27 12:57:54,168 - logger File -INFO - user clicked on the first order
+2023-02-27 12:57:56,862 - logger File -INFO - user is on retail website
+2023-02-27 12:57:56,862 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:57:57,202 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:57:57,570 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:57:57,693 - logger File -INFO - user clicked on login button
+2023-02-27 12:57:58,099 - logger File -INFO - user clicked on order option
+2023-02-27 12:57:58,657 - logger File -INFO - user clicked on second order
+2023-02-27 12:58:32,030 - logger File -INFO - user is on retail website
+2023-02-27 12:58:32,031 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 12:58:32,346 - logger File -INFO - user click on the Sign in option
+2023-02-27 12:58:32,708 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 12:58:32,828 - logger File -INFO - user clicked on login button
+2023-02-27 12:58:33,224 - logger File -INFO - user clicked on order option
+2023-02-27 12:58:33,885 - logger File -INFO - user clicked on order review button
+2023-02-27 12:58:34,336 - logger File -INFO - user filled review form
+2023-02-27 12:58:34,460 - logger File -INFO - user clicked on order review button
+2023-02-27 12:58:35,181 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:02:18,783 - logger File -INFO - user is on retail website
+2023-02-27 13:02:18,808 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:02:19,152 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:02:19,514 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:02:19,606 - logger File -INFO - user clicked on login button
+2023-02-27 13:02:19,982 - logger File -INFO - user clicked on order option
+2023-02-27 13:02:20,576 - logger File -INFO - user clicked on the first order
+2023-02-27 13:02:20,754 - logger File -INFO - user clicked on the first order
+2023-02-27 13:02:20,911 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:02:21,042 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:02:21,162 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:02:21,338 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:02:21,573 - logger File -INFO - user clicked on order option
+2023-02-27 13:02:24,078 - logger File -INFO - user is on retail website
+2023-02-27 13:02:24,079 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:02:24,421 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:02:24,759 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:02:24,862 - logger File -INFO - user clicked on login button
+2023-02-27 13:02:25,262 - logger File -INFO - user clicked on order option
+2023-02-27 13:02:25,842 - logger File -INFO - user clicked on the first order
+2023-02-27 13:02:59,033 - logger File -INFO - user is on retail website
+2023-02-27 13:02:59,033 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:02:59,286 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:02:59,612 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:02:59,748 - logger File -INFO - user clicked on login button
+2023-02-27 13:03:00,212 - logger File -INFO - user clicked on order option
+2023-02-27 13:03:00,803 - logger File -INFO - user clicked on the first order
+2023-02-27 13:03:00,980 - logger File -INFO - user clicked on order review button
+2023-02-27 13:03:01,479 - logger File -INFO - user filled review form
+2023-02-27 13:03:01,600 - logger File -INFO - user clicked on order review button
+2023-02-27 13:03:02,346 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:03:59,516 - logger File -INFO - user is on retail website
+2023-02-27 13:03:59,540 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:03:59,902 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:04:00,306 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:04:00,406 - logger File -INFO - user clicked on login button
+2023-02-27 13:04:00,790 - logger File -INFO - user clicked on order option
+2023-02-27 13:04:01,366 - logger File -INFO - user clicked on the first order
+2023-02-27 13:04:01,541 - logger File -INFO - user clicked on the first order
+2023-02-27 13:04:01,691 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:04:01,825 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:04:01,949 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:04:02,108 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:04:02,353 - logger File -INFO - user clicked on order option
+2023-02-27 13:04:04,704 - logger File -INFO - user is on retail website
+2023-02-27 13:04:04,706 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:04:05,076 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:04:05,440 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:04:05,549 - logger File -INFO - user clicked on login button
+2023-02-27 13:04:05,950 - logger File -INFO - user clicked on order option
+2023-02-27 13:04:06,564 - logger File -INFO - user clicked on the first order
+2023-02-27 13:04:09,221 - logger File -INFO - user is on retail website
+2023-02-27 13:04:09,223 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:04:09,579 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:04:09,974 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:04:10,085 - logger File -INFO - user clicked on login button
+2023-02-27 13:04:10,442 - logger File -INFO - user clicked on order option
+2023-02-27 13:04:11,016 - logger File -INFO - user clicked on the first order
+2023-02-27 13:04:44,235 - logger File -INFO - user is on retail website
+2023-02-27 13:04:44,236 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:04:44,431 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:04:44,796 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:04:44,882 - logger File -INFO - user clicked on login button
+2023-02-27 13:04:45,330 - logger File -INFO - user clicked on order option
+2023-02-27 13:04:45,925 - logger File -INFO - user clicked on the first order
+2023-02-27 13:04:46,050 - logger File -INFO - user clicked on order review button
+2023-02-27 13:04:46,499 - logger File -INFO - user filled review form
+2023-02-27 13:04:46,612 - logger File -INFO - user clicked on order review button
+2023-02-27 13:04:47,323 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:06:46,196 - logger File -INFO - user is on retail website
+2023-02-27 13:06:46,212 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:06:46,589 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:06:46,953 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:06:47,066 - logger File -INFO - user clicked on login button
+2023-02-27 13:06:47,433 - logger File -INFO - user clicked on order option
+2023-02-27 13:06:48,030 - logger File -INFO - user clicked on the first order
+2023-02-27 13:06:48,206 - logger File -INFO - user clicked on the first order
+2023-02-27 13:06:48,359 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:06:48,492 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:06:48,618 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:06:48,773 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:06:49,040 - logger File -INFO - user clicked on order option
+2023-02-27 13:06:51,430 - logger File -INFO - user is on retail website
+2023-02-27 13:06:51,431 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:06:51,820 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:06:52,181 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:06:52,283 - logger File -INFO - user clicked on login button
+2023-02-27 13:06:52,632 - logger File -INFO - user clicked on order option
+2023-02-27 13:06:53,231 - logger File -INFO - user clicked on the first order
+2023-02-27 13:06:55,913 - logger File -INFO - user is on retail website
+2023-02-27 13:06:55,916 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:06:56,159 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:06:56,596 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:06:56,718 - logger File -INFO - user clicked on login button
+2023-02-27 13:06:57,181 - logger File -INFO - user clicked on order option
+2023-02-27 13:06:57,743 - logger File -INFO - user clicked on the first order
+2023-02-27 13:07:30,930 - logger File -INFO - user is on retail website
+2023-02-27 13:07:30,931 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:07:31,260 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:07:31,584 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:07:31,691 - logger File -INFO - user clicked on login button
+2023-02-27 13:07:32,089 - logger File -INFO - user clicked on order option
+2023-02-27 13:07:32,653 - logger File -INFO - user clicked on the first order
+2023-02-27 13:07:32,780 - logger File -INFO - user clicked on order review button
+2023-02-27 13:07:33,209 - logger File -INFO - user filled review form
+2023-02-27 13:07:33,313 - logger File -INFO - user clicked on order review button
+2023-02-27 13:07:34,030 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:11:18,851 - logger File -INFO - user is on retail website
+2023-02-27 13:11:18,868 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:11:19,240 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:11:19,610 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:11:19,714 - logger File -INFO - user clicked on login button
+2023-02-27 13:11:20,113 - logger File -INFO - user clicked on order option
+2023-02-27 13:11:20,680 - logger File -INFO - user clicked on the first order
+2023-02-27 13:11:20,863 - logger File -INFO - user clicked on the first order
+2023-02-27 13:11:21,021 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:11:21,151 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:11:21,268 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:11:21,435 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:11:21,702 - logger File -INFO - user clicked on order option
+2023-02-27 13:11:24,043 - logger File -INFO - user is on retail website
+2023-02-27 13:11:24,044 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:11:24,407 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:11:24,819 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:11:24,920 - logger File -INFO - user clicked on login button
+2023-02-27 13:11:25,293 - logger File -INFO - user clicked on order option
+2023-02-27 13:11:25,957 - logger File -INFO - user clicked on the first order
+2023-02-27 13:11:28,714 - logger File -INFO - user is on retail website
+2023-02-27 13:11:28,717 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:11:28,994 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:11:29,427 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:11:29,566 - logger File -INFO - user clicked on login button
+2023-02-27 13:11:29,984 - logger File -INFO - user clicked on order option
+2023-02-27 13:11:30,561 - logger File -INFO - user clicked on the first order
+2023-02-27 13:11:30,702 - logger File -INFO - user clicked on return items button
+2023-02-27 13:11:30,821 - logger File -INFO - user selected order return reason
+2023-02-27 13:11:30,936 - logger File -INFO - user selected the drop off service
+2023-02-27 13:11:31,054 - logger File -INFO - user clicked on return order button
+2023-02-27 13:11:31,216 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 13:11:33,700 - logger File -INFO - user is on retail website
+2023-02-27 13:11:33,701 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:11:34,050 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:11:34,394 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:11:34,511 - logger File -INFO - user clicked on login button
+2023-02-27 13:11:34,873 - logger File -INFO - user clicked on order option
+2023-02-27 13:11:35,475 - logger File -INFO - user clicked on the first order
+2023-02-27 13:11:35,626 - logger File -INFO - user clicked on order review button
+2023-02-27 13:11:36,124 - logger File -INFO - user filled review form
+2023-02-27 13:11:36,253 - logger File -INFO - user clicked on order review button
+2023-02-27 13:11:36,980 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:12:43,684 - logger File -INFO - user is on retail website
+2023-02-27 13:12:43,708 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:12:44,123 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:12:44,525 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:12:44,646 - logger File -INFO - user clicked on login button
+2023-02-27 13:12:45,002 - logger File -INFO - user clicked on order option
+2023-02-27 13:12:45,562 - logger File -INFO - user clicked on the first order
+2023-02-27 13:12:45,705 - logger File -INFO - user clicked on the first order
+2023-02-27 13:12:45,838 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:12:45,947 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:12:46,041 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:12:46,203 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:12:46,427 - logger File -INFO - user clicked on order option
+2023-02-27 13:12:49,009 - logger File -INFO - user is on retail website
+2023-02-27 13:12:49,010 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:12:49,396 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:12:49,733 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:12:49,839 - logger File -INFO - user clicked on login button
+2023-02-27 13:12:50,245 - logger File -INFO - user clicked on order option
+2023-02-27 13:12:50,841 - logger File -INFO - user clicked on the first order
+2023-02-27 13:12:54,498 - logger File -INFO - user is on retail website
+2023-02-27 13:12:54,499 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:12:54,736 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:12:55,122 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:12:55,258 - logger File -INFO - user clicked on login button
+2023-02-27 13:12:55,678 - logger File -INFO - user clicked on order option
+2023-02-27 13:12:56,151 - logger File -INFO - user clicked on the first order
+2023-02-27 13:13:29,444 - logger File -INFO - user is on retail website
+2023-02-27 13:13:29,445 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:13:29,690 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:13:30,069 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:13:30,169 - logger File -INFO - user clicked on login button
+2023-02-27 13:13:30,640 - logger File -INFO - user clicked on order option
+2023-02-27 13:13:31,123 - logger File -INFO - user clicked on the first order
+2023-02-27 13:13:31,242 - logger File -INFO - user clicked on order review button
+2023-02-27 13:13:31,699 - logger File -INFO - user filled review form
+2023-02-27 13:13:31,810 - logger File -INFO - user clicked on order review button
+2023-02-27 13:13:32,534 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:15:00,798 - logger File -INFO - user is on retail website
+2023-02-27 13:15:00,844 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:15:01,246 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:15:01,676 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:15:01,802 - logger File -INFO - user clicked on login button
+2023-02-27 13:15:02,256 - logger File -INFO - user clicked on order option
+2023-02-27 13:15:02,844 - logger File -INFO - user clicked on the first order
+2023-02-27 13:15:03,011 - logger File -INFO - user clicked on the first order
+2023-02-27 13:15:03,130 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:15:03,242 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:15:03,347 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:15:03,504 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:15:03,721 - logger File -INFO - user clicked on order option
+2023-02-27 13:15:06,188 - logger File -INFO - user is on retail website
+2023-02-27 13:15:06,189 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:15:06,474 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:15:06,891 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:15:07,023 - logger File -INFO - user clicked on login button
+2023-02-27 13:15:07,530 - logger File -INFO - user clicked on order option
+2023-02-27 13:15:08,088 - logger File -INFO - user clicked on the first order
+2023-02-27 13:15:10,975 - logger File -INFO - user is on retail website
+2023-02-27 13:15:10,976 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:15:11,203 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:15:11,644 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:15:11,759 - logger File -INFO - user clicked on login button
+2023-02-27 13:15:12,593 - logger File -INFO - user clicked on order option
+2023-02-27 13:15:13,154 - logger File -INFO - user clicked on the first order
+2023-02-27 13:15:37,592 - logger File -INFO - user is on retail website
+2023-02-27 13:15:37,593 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:15:37,964 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:15:38,361 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:15:38,487 - logger File -INFO - user clicked on login button
+2023-02-27 13:15:38,906 - logger File -INFO - user clicked on order option
+2023-02-27 13:15:39,509 - logger File -INFO - user clicked on the first order
+2023-02-27 13:15:39,668 - logger File -INFO - user clicked on order review button
+2023-02-27 13:15:40,232 - logger File -INFO - user filled review form
+2023-02-27 13:15:40,359 - logger File -INFO - user clicked on order review button
+2023-02-27 13:15:41,115 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:19:03,310 - logger File -INFO - user is on retail website
+2023-02-27 13:19:03,329 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:19:03,732 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:19:04,170 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:19:04,318 - logger File -INFO - user clicked on login button
+2023-02-27 13:19:04,721 - logger File -INFO - user clicked on order option
+2023-02-27 13:19:05,332 - logger File -INFO - user clicked on the first order
+2023-02-27 13:19:05,534 - logger File -INFO - user clicked on the first order
+2023-02-27 13:19:05,719 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:19:05,875 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:19:06,006 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:19:06,183 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:19:06,510 - logger File -INFO - user clicked on order option
+2023-02-27 13:19:09,519 - logger File -INFO - user is on retail website
+2023-02-27 13:19:09,520 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:19:09,945 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:19:10,424 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:19:10,576 - logger File -INFO - user clicked on login button
+2023-02-27 13:19:10,991 - logger File -INFO - user clicked on order option
+2023-02-27 13:19:11,647 - logger File -INFO - user clicked on the first order
+2023-02-27 13:19:14,712 - logger File -INFO - user is on retail website
+2023-02-27 13:19:14,713 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:19:15,056 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:19:15,512 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:19:15,636 - logger File -INFO - user clicked on login button
+2023-02-27 13:19:16,177 - logger File -INFO - user clicked on order option
+2023-02-27 13:19:16,758 - logger File -INFO - user clicked on the first order
+2023-02-27 13:19:39,248 - logger File -INFO - user is on retail website
+2023-02-27 13:19:39,249 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:19:39,436 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:19:39,908 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:19:40,035 - logger File -INFO - user clicked on login button
+2023-02-27 13:19:40,434 - logger File -INFO - user clicked on order option
+2023-02-27 13:19:41,045 - logger File -INFO - user clicked on the first order
+2023-02-27 13:19:41,181 - logger File -INFO - user clicked on order review button
+2023-02-27 13:19:41,675 - logger File -INFO - user filled review form
+2023-02-27 13:19:41,792 - logger File -INFO - user clicked on order review button
+2023-02-27 13:19:42,527 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:21:07,708 - logger File -INFO - user is on retail website
+2023-02-27 13:21:07,763 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:21:08,138 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:21:08,615 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:21:08,756 - logger File -INFO - user clicked on login button
+2023-02-27 13:21:09,166 - logger File -INFO - user clicked on order option
+2023-02-27 13:21:09,816 - logger File -INFO - user clicked on the first order
+2023-02-27 13:21:10,005 - logger File -INFO - user clicked on the first order
+2023-02-27 13:21:10,185 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:21:10,331 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:21:10,472 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:21:10,641 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:21:10,965 - logger File -INFO - user clicked on order option
+2023-02-27 13:21:13,956 - logger File -INFO - user is on retail website
+2023-02-27 13:21:13,957 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:21:14,368 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:21:14,820 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:21:14,971 - logger File -INFO - user clicked on login button
+2023-02-27 13:21:15,364 - logger File -INFO - user clicked on order option
+2023-02-27 13:21:15,952 - logger File -INFO - user clicked on the first order
+2023-02-27 13:21:19,284 - logger File -INFO - user is on retail website
+2023-02-27 13:21:19,286 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:21:19,703 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:21:20,211 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:21:20,363 - logger File -INFO - user clicked on login button
+2023-02-27 13:21:20,788 - logger File -INFO - user clicked on order option
+2023-02-27 13:21:21,382 - logger File -INFO - user clicked on the first order
+2023-02-27 13:21:21,568 - logger File -INFO - user clicked on return items button
+2023-02-27 13:21:21,712 - logger File -INFO - user selected order return reason
+2023-02-27 13:21:21,850 - logger File -INFO - user selected the drop off service
+2023-02-27 13:21:22,033 - logger File -INFO - user clicked on return order button
+2023-02-27 13:21:22,206 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 13:21:25,070 - logger File -INFO - user is on retail website
+2023-02-27 13:21:25,072 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:21:25,504 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:21:25,952 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:21:26,089 - logger File -INFO - user clicked on login button
+2023-02-27 13:21:26,499 - logger File -INFO - user clicked on order option
+2023-02-27 13:21:27,100 - logger File -INFO - user clicked on the first order
+2023-02-27 13:21:27,261 - logger File -INFO - user clicked on order review button
+2023-02-27 13:21:27,804 - logger File -INFO - user filled review form
+2023-02-27 13:21:27,953 - logger File -INFO - user clicked on order review button
+2023-02-27 13:21:28,722 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:22:34,904 - logger File -INFO - user is on retail website
+2023-02-27 13:22:34,932 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:22:35,361 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:22:35,802 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:22:35,911 - logger File -INFO - user clicked on login button
+2023-02-27 13:22:36,310 - logger File -INFO - user clicked on order option
+2023-02-27 13:22:36,941 - logger File -INFO - user clicked on the first order
+2023-02-27 13:22:37,146 - logger File -INFO - user clicked on the first order
+2023-02-27 13:22:37,334 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:22:37,495 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:22:37,648 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:22:37,826 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:22:38,152 - logger File -INFO - user clicked on order option
+2023-02-27 13:22:41,089 - logger File -INFO - user is on retail website
+2023-02-27 13:22:41,090 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:22:41,451 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:22:41,919 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:22:42,070 - logger File -INFO - user clicked on login button
+2023-02-27 13:22:42,500 - logger File -INFO - user clicked on order option
+2023-02-27 13:22:43,131 - logger File -INFO - user clicked on the first order
+2023-02-27 13:22:46,441 - logger File -INFO - user is on retail website
+2023-02-27 13:22:46,443 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:22:46,823 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:22:47,290 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:22:47,439 - logger File -INFO - user clicked on login button
+2023-02-27 13:22:47,856 - logger File -INFO - user clicked on order option
+2023-02-27 13:22:48,457 - logger File -INFO - user clicked on the first order
+2023-02-27 13:23:22,412 - logger File -INFO - user is on retail website
+2023-02-27 13:23:22,413 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:23:22,850 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:23:23,299 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:23:23,443 - logger File -INFO - user clicked on login button
+2023-02-27 13:23:23,852 - logger File -INFO - user clicked on order option
+2023-02-27 13:23:24,485 - logger File -INFO - user clicked on the first order
+2023-02-27 13:23:24,643 - logger File -INFO - user clicked on order review button
+2023-02-27 13:23:25,141 - logger File -INFO - user filled review form
+2023-02-27 13:23:25,296 - logger File -INFO - user clicked on order review button
+2023-02-27 13:23:26,085 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:26:28,086 - logger File -INFO - user is on retail website
+2023-02-27 13:26:28,110 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:26:28,549 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:26:29,009 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:26:29,147 - logger File -INFO - user clicked on login button
+2023-02-27 13:26:29,513 - logger File -INFO - user clicked on order option
+2023-02-27 13:26:30,086 - logger File -INFO - user clicked on the first order
+2023-02-27 13:26:30,281 - logger File -INFO - user clicked on the first order
+2023-02-27 13:26:30,453 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:26:30,588 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:26:30,729 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:26:30,908 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:26:31,245 - logger File -INFO - user clicked on order option
+2023-02-27 13:26:37,177 - logger File -INFO - user is on retail website
+2023-02-27 13:26:37,178 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:26:37,457 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:26:37,931 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:26:38,084 - logger File -INFO - user clicked on login button
+2023-02-27 13:26:38,661 - logger File -INFO - user clicked on order option
+2023-02-27 13:26:39,533 - logger File -INFO - user clicked on the first order
+2023-02-27 13:26:42,534 - logger File -INFO - user is on retail website
+2023-02-27 13:26:42,538 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:26:42,803 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:26:43,226 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:26:43,351 - logger File -INFO - user clicked on login button
+2023-02-27 13:26:43,825 - logger File -INFO - user clicked on order option
+2023-02-27 13:26:44,387 - logger File -INFO - user clicked on the first order
+2023-02-27 13:27:18,054 - logger File -INFO - user is on retail website
+2023-02-27 13:27:18,055 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:27:18,406 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:27:18,871 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:27:18,992 - logger File -INFO - user clicked on login button
+2023-02-27 13:27:19,409 - logger File -INFO - user clicked on order option
+2023-02-27 13:27:19,988 - logger File -INFO - user clicked on the first order
+2023-02-27 13:27:20,123 - logger File -INFO - user clicked on order review button
+2023-02-27 13:27:20,570 - logger File -INFO - user filled review form
+2023-02-27 13:27:20,689 - logger File -INFO - user clicked on order review button
+2023-02-27 13:27:21,445 - logger File -INFO - a message was displayed Your review was added successfully
+2023-02-27 13:29:36,285 - logger File -INFO - user is on retail website
+2023-02-27 13:29:36,320 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:29:36,728 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:29:37,200 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:29:37,336 - logger File -INFO - user clicked on login button
+2023-02-27 13:29:37,766 - logger File -INFO - user clicked on order option
+2023-02-27 13:29:38,350 - logger File -INFO - user clicked on the first order
+2023-02-27 13:29:38,541 - logger File -INFO - user clicked on the first order
+2023-02-27 13:29:38,732 - logger File -INFO - user clicked on cancel the order button
+2023-02-27 13:29:38,880 - logger File -INFO - user selected the cancellation reason
+2023-02-27 13:29:39,009 - logger File -INFO - user clicked on the cancel order submit button
+2023-02-27 13:29:39,172 - logger File -INFO - order cancelation message was diplayed Your Order Has Been Cancelled
+2023-02-27 13:29:39,491 - logger File -INFO - user clicked on order option
+2023-02-27 13:29:42,405 - logger File -INFO - user is on retail website
+2023-02-27 13:29:42,407 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:29:42,835 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:29:43,307 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:29:43,454 - logger File -INFO - user clicked on login button
+2023-02-27 13:29:43,908 - logger File -INFO - user clicked on order option
+2023-02-27 13:29:44,499 - logger File -INFO - user clicked on the first order
+2023-02-27 13:29:47,923 - logger File -INFO - user is on retail website
+2023-02-27 13:29:47,925 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:29:48,349 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:29:48,826 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:29:48,977 - logger File -INFO - user clicked on login button
+2023-02-27 13:29:49,373 - logger File -INFO - user clicked on order option
+2023-02-27 13:29:49,973 - logger File -INFO - user clicked on the first order
+2023-02-27 13:29:50,157 - logger File -INFO - user clicked on return items button
+2023-02-27 13:29:50,299 - logger File -INFO - user selected order return reason
+2023-02-27 13:29:50,451 - logger File -INFO - user selected the drop off service
+2023-02-27 13:29:50,604 - logger File -INFO - user clicked on return order button
+2023-02-27 13:29:50,784 - logger File -INFO - the message was displayed Return was successfull
+2023-02-27 13:29:53,613 - logger File -INFO - user is on retail website
+2023-02-27 13:29:53,615 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-02-27 13:29:54,001 - logger File -INFO - user click on the Sign in option
+2023-02-27 13:29:54,448 - logger File -INFO - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-27 13:29:54,581 - logger File -INFO - user clicked on login button
+2023-02-27 13:29:55,003 - logger File -INFO - user clicked on order option
+2023-02-27 13:29:55,542 - logger File -INFO - user clicked on the first order
+2023-02-27 13:29:55,702 - logger File -INFO - user clicked on order review button
+2023-02-27 13:29:56,228 - logger File -INFO - user filled review form
+2023-02-27 13:29:56,374 - logger File -INFO - user clicked on order review button
+2023-02-27 13:29:57,106 - logger File -INFO - a message was displayed Your review was added successfully

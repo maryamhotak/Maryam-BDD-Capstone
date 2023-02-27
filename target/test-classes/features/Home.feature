@@ -5,15 +5,12 @@ Feature: Retail Home Page
     When User search for "pokemon" product
     Then The product should be displayed
 
-  
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section
     Then User below options are present in Shop by department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-
-  @test
   Scenario Outline: Verify Department sidebar option
     Given User is on retail website
     When User click on All section
@@ -27,3 +24,64 @@ Feature: Retail Home Page
       | Smart Home  | Smart Home Lightning           | Plugs and Outlets       |
       | Sports      | Athletic Clothing              | Exercise & Fitness      |
       | Automative  | Automative Parts & Accessories | MotoCycle & Powersports |
+  
+  Scenario: Verify User can place an order without Shipping address and payment Method on file
+    Given User is on retail website
+    When User click on the Sign in option
+    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User click on login button
+    When User should be logged in into Account
+    And User change the category to 'Smart Home'
+    And User search for an item 'kasa outdoor smart plug'
+    And User click on Search icon
+    And User click on item
+    And User select quantity '2'
+    And User click add to Cart button
+    Then the cart icon quantity should change to '2'
+    And User click on Cart option
+    And User click on Proceed to Checkout button
+    And User click Add a new address link for shipping address
+    And User fill new address form with below information
+      | country     | fullName | phoneNumber | streetAddress | apt | city  | state | zipCode |
+      | Afghanistan | Gul      |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
+    And User click Add your Address button
+    And User click Add a credit card or Debit Card for Payment method
+    And User fill Debit or Credit card information
+      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
+      | 3456876523459899 | Jan        |              11 |           2027 |          432 |
+    And User click on Add your card button
+    And User click on Place Your Order
+    Then Message should be Displayed 'Order Placed, Thanks'
+
+  
+  Scenario: Verify User can place an order with Shipping address and payment Method on file
+    Given User is on retail website
+    When User click on the Sign in option
+    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User click on login button
+    When User should be logged in into Account
+    And User change the category to 'Electronics'
+    And User search for an item 'Apex Legends'
+    And User click on Search icon
+    And User click on the Item
+    And User select quantity '5'
+    And User click add to Cart button
+    Then the cart icon quantity should change to '5'
+    And User click on Cart option
+    And User click on Proceed to Checkout button
+    And User click on Place Your Order
+    Then Message should be Displayed 'Order Placed, Thanks'
+
+  Scenario: Verify User can add an item to cart
+    Given User is on retail website
+    When User click on the Sign in option
+    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User click on login button
+    When User should be logged in into Account
+    And User change the category to 'Smart Home'
+    And User search for an item 'kasa outdoor smart plug'
+    And User click on Search icon
+    And User click on item
+    And User select quantity '2'
+    And User click add to Cart button
+    Then the cart icon quantity should change to '2'

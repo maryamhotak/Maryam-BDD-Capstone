@@ -51,4 +51,53 @@ public class RetailHomePage extends BaseSetup {
     
     @FindBy(xpath="//div[@class='sidebar__content']//span")
     public List<WebElement> departments;
+    
+    @FindBy(xpath="//select[@class='search__select']")
+    public WebElement allCatagoryBtn;
+    
+    @FindBy(css="#searchInput")
+    public WebElement searcBar;
+    
+    @FindBy(xpath="//button[@id='searchBtn']")
+    public WebElement searchBtnHomePage;
+    
+    @FindBy(xpath ="//img[@alt='Kasa Outdoor Smart Plug']")
+    public WebElement KasaOutdoorSmartPlug;
+    
+    @FindBy(css="select[class='product__select']")
+    public WebElement itemQty;
+    
+    @FindBy(xpath="//span[text()='Add to Cart']")
+    public WebElement addToCartBtn;
+    
+    @FindBy(css="#cartQuantity")
+    public WebElement cartQtyAssertion;
+    
+    @FindBy(css="#cartBtn")
+    public WebElement cartOption;
+    
+    @FindBy(css="button[id='proceedBtn']")
+    public WebElement proceedCheckOutBtn;
+    
+    @FindBy(css="button[id='addAddressBtn']")
+    public WebElement oderNewAddressLink;
+    
+    @FindBy(css="#placeOrderBtn")
+    public WebElement placeOrderBtn;
+    
+    @FindBy(xpath="//p[text()='Order Placed, Thanks']")
+    public WebElement orderPlacedSuccessMessage;
+    
+    @FindBy(xpath="//img[@alt='Apex Legends - 1,000 Apex Coins']")
+    public WebElement apexLegends;
+    
+    @FindBy(xpath="//span[text()='Delete']")
+	public WebElement deleteItemFromCart;
+    
+    @FindBy(xpath="//h1[contains(text(),'Your Shopping Cart is Empty')]")
+    public WebElement emptyShoppingCart;
+    
+    @FindBy(xpath="#orderLink")
+	public WebElement oderOption;
+    
 }
