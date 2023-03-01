@@ -76,7 +76,7 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(css="input[name=securityCode]")
 	public WebElement securityCode; 
 
-	@FindBy(css="#paymentSubmitBtn")
+	@FindBy(css="#addPaymentBtn")
 	public WebElement paymentSubmitBtn;
 
 	@FindBy(xpath="//div[text()='Payment Method added sucessfully']")
@@ -103,7 +103,7 @@ public class RetailAccountPage extends BaseSetup {
 	 @FindBy(xpath="//div[@class='account__address-new-wrapper']")
 	 public WebElement AddressOption;
 	 
-	 @FindBy(xpath="//button[@class='account__address-btn'][1]")
+	 @FindBy(xpath="//button[@id='addressBtn']")
 	 public WebElement addressEditButton;
 	 
 	 @FindBy(xpath="//div[contains(text(),'Address Updated Successfully')]")
