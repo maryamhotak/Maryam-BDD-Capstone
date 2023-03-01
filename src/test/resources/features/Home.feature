@@ -1,4 +1,4 @@
-@test
+ @test
 Feature: Retail Home Page
 
   Scenario: Verify user can search a product
@@ -42,14 +42,14 @@ Feature: Retail Home Page
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click Add a new address link for shipping address
-    And User fill new address form with below information
+    And user fill new address form with below information
       | country     | fullName | phoneNumber | streetAddress | apt | city  | state | zipCode |
-      | Afghanistan | Gul      |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
+      | Afghanistan | Gul jan     |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
     And User click Add your Address button
     And User click Add a credit card or Debit Card for Payment method
-    And User fill Debit or Credit card information
+    And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 3456876523459800 | Jan        |              11 |           2027 |          432 |
+      | 1256876523459800 | Jan        |              11 |           2027 |          432 |
     And User click on Add your card button
     And User click on Place Your Order
     Then Message should be Displayed 'Order Placed, Thanks'

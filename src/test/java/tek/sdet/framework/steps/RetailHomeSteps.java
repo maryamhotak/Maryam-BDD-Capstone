@@ -168,20 +168,20 @@ public class RetailHomeSteps extends CommonUtility {
 	    click(factory.homePage().oderNewAddressLink);
 	    logger.info("user clicked on add new address link");
 	}
-	@Then("User fill new address form with below information")
-	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable) {
-	    List<Map<String, String>> addressInfo = dataTable.asMaps(String.class, String.class);
-	    selectByVisibleText(factory.accountPage().addressCountryDropDown, addressInfo.get(0).get("country"));
-	    sendText(factory.accountPage().addressNameInput, addressInfo.get(0).get("fullName"));
-	    sendText(factory.accountPage().addressPhoneNumber, addressInfo.get(0).get("phoneNumber"));
-	    sendText(factory.accountPage().addressStreetInput, addressInfo.get(0).get("streetAddress"));
-	    sendText(factory.accountPage().addressApartmentInput, addressInfo.get(0).get("apt"));
-	    sendText(factory.accountPage().addressCityInput, addressInfo.get(0).get("city"));
-	    selectByVisibleText(factory.accountPage().addressStateInput, addressInfo.get(0).get("state"));
-	    sendText(factory.accountPage().addressZipInput, addressInfo.get(0).get("zipCode"));
-	    logger.info("user filled addres information form");
-	    
-	}
+//	@Then("User fill new address form with below information")
+//	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable) {
+//	    List<Map<String, String>> addressInfo = dataTable.asMaps(String.class, String.class);
+//	    selectByVisibleText(factory.accountPage().addressCountryDropDown, addressInfo.get(0).get("country"));
+//	    sendText(factory.accountPage().addressNameInput, addressInfo.get(0).get("fullName"));
+//	    sendText(factory.accountPage().addressPhoneNumber, addressInfo.get(0).get("phoneNumber"));
+//	    sendText(factory.accountPage().addressStreetInput, addressInfo.get(0).get("streetAddress"));
+//	    sendText(factory.accountPage().addressApartmentInput, addressInfo.get(0).get("apt"));
+//	    sendText(factory.accountPage().addressCityInput, addressInfo.get(0).get("city"));
+//	    selectByVisibleText(factory.accountPage().addressStateInput, addressInfo.get(0).get("state"));
+//	    sendText(factory.accountPage().addressZipInput, addressInfo.get(0).get("zipCode"));
+//	    logger.info("user filled addres information form");
+//	    
+//	}
 	@Then("User click Add your Address button")
 	public void userClickAddYourAddressButton() {
 	    click(factory.accountPage().addYourAddressButton);
@@ -192,16 +192,16 @@ public class RetailHomeSteps extends CommonUtility {
 	    click(factory.accountPage().orderNewAccountBankLink);
 	    logger.info("user clicked on order new account link ");
 	}
-	@Then("User fill Debit or Credit card information")
-	public void userFillDebitOrCreditCardInformation(DataTable dataTable) {
-	  List<Map<String,String>> bankInfo = dataTable.asMaps(String.class, String.class);
-	  sendText(factory.accountPage().CardNumberInput, bankInfo.get(0).get("cardNumber"));
-	  sendText(factory.accountPage().nameOnCardInput, bankInfo.get(0).get("nameOnCard"));
-	  selectByValue(factory.accountPage().expirationMonth, bankInfo.get(0).get("expirationMonth"));
-	  selectByValue(factory.accountPage().expirationYearInput, bankInfo.get(0).get("expirationYear"));
-	  sendText(factory.accountPage().securityCode, bankInfo.get(0).get("securityCode"));
-	  logger.info("user filled bank information form");
-	}
+//	@Then("User fill Debit or Credit card information")
+//	public void userFillDebitOrCreditCardInformation(DataTable dataTable) {
+//	  List<Map<String,String>> bankInfo = dataTable.asMaps(String.class, String.class);
+//	  sendText(factory.accountPage().CardNumberInput, bankInfo.get(0).get("cardNumber"));
+//	  sendText(factory.accountPage().nameOnCardInput, bankInfo.get(0).get("nameOnCard"));
+//	  selectByValue(factory.accountPage().expirationMonth, bankInfo.get(0).get("expirationMonth"));
+//	  selectByValue(factory.accountPage().expirationYearInput, bankInfo.get(0).get("expirationYear"));
+//	  sendText(factory.accountPage().securityCode, bankInfo.get(0).get("securityCode"));
+//	  logger.info("user filled bank information form");
+//	}
 	@Then("User click on Add your card button")
 	public void userClickOnAddYourCardButton() {
 	    click(factory.accountPage().paymentSubmitBtn);

@@ -58,7 +58,7 @@ public class RetailAccountPage extends BaseSetup {
 	 @FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
 	 public WebElement addressUpdateSuccessMessage;
 
-	 @FindBy(css="#addPaymentBtn")
+	 @FindBy(xpath="//button[@id='addPaymentBtn']")
 	 public WebElement orderNewAccountBankLink;
 	 
 	 @FindBy(css="#cardNumberInput")
