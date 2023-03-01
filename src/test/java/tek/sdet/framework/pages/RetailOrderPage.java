@@ -15,7 +15,7 @@ public class RetailOrderPage extends BaseSetup {
 	
 	
 	
-	@FindBy(xpath="(//p[text()='Show Details'])[1]")
+	@FindBy(xpath="(//p[text()='Show Details'])[4]")
 	public WebElement firstOder;
 	
 	@FindBy(xpath="//button[@id='cancelBtn']")
@@ -70,7 +70,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath="//button[text()='Buy again']")
 	public WebElement buyAgainButton;
 	
-	@FindBy(xpath="(//p[text()='Show Details'])[1]")
+	@FindBy(xpath="(//p[text()='Show Details'])[5]")
 	public WebElement secondOrder;
 	
 }
