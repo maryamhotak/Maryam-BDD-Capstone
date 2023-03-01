@@ -3408,3 +3408,27 @@
 2023-02-27 17:00:29,613 [main] INFO logger File - user filled password update form
 2023-02-27 17:00:29,732 [main] INFO logger File - user clicked on update pasword button
 2023-02-27 17:00:30,698 [main] INFO logger File - a message was displayed Password Updated Successfully
+2023-02-28 23:07:16,494 [main] INFO logger File - user is on retail website
+2023-02-28 23:07:16,501 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-28 23:07:16,964 [main] INFO logger File - user searched for product pokemon
+2023-02-28 23:07:17,072 [main] INFO logger File - the Product is displayed on home page
+2023-02-28 23:07:19,949 [main] INFO logger File - user is on retail website
+2023-02-28 23:07:19,951 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-28 23:07:20,198 [main] INFO logger File - User clicked on All Departments
+2023-02-28 23:07:20,308 [main] INFO logger File - Electronicsis equal to Electronics
+2023-02-28 23:07:20,352 [main] INFO logger File - Computersis equal to Computers
+2023-02-28 23:07:20,404 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-02-28 23:07:20,474 [main] INFO logger File - Sportsis equal to Sports
+2023-02-28 23:07:20,531 [main] INFO logger File - Automativeis equal to Automative
+2023-02-28 23:07:23,149 [main] INFO logger File - user is on retail website
+2023-02-28 23:07:23,149 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-28 23:07:23,452 [main] INFO logger File - User clicked on All Departments
+2023-02-28 23:07:23,705 [main] INFO logger File - TV & Video is present
+2023-02-28 23:08:02,619 [main] INFO logger File - user is on retail website
+2023-02-28 23:08:02,627 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-02-28 23:08:03,001 [main] INFO logger File - user click on the Sign in option
+2023-02-28 23:08:03,440 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-02-28 23:08:03,582 [main] INFO logger File - user clicked on login button
+2023-02-28 23:08:04,105 [main] INFO logger File - User clicked on account option
+2023-02-28 23:08:04,292 [main] INFO logger File - user clicked on address edit button
+2023-02-28 23:08:05,804 [main] INFO logger File - user updated address form with new information
