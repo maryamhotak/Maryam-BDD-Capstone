@@ -188,14 +188,15 @@ public class AccountSteps extends CommonUtility {
 
 	@When("User click update Your Address button")
 	public void userClickUpdateYourAddressButton() {
-		click(factory.accountPage().addressEditButton);
+		click(factory.accountPage().addresUpdateBtn);
 		logger.info("user clicked on address edit button");
 
 	}
 
 	@Then("A Message should be displayed {string}")
 	public void aMessageShouldBeDisplayedAddressUpdatedSuccessfully(String updateMessage) {
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().addressUpdateMassageAfterEdit));
+		waitTillPresence(factory.accountPage().addressUpdateMassageAfterEdit);
+		Assert.assertEquals(updateMessage, factory.accountPage().addressUpdateMassageAfterEdit.getText());
 		logger.info("a message was displayed " + updateMessage);
 	}
 

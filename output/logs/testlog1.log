@@ -3432,3 +3432,224 @@
 2023-02-28 23:08:04,105 [main] INFO logger File - User clicked on account option
 2023-02-28 23:08:04,292 [main] INFO logger File - user clicked on address edit button
 2023-02-28 23:08:05,804 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:02:41,701 [main] INFO logger File - user is on retail website
+2023-03-01 00:02:41,709 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:02:42,083 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:02:42,519 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:02:42,666 [main] INFO logger File - user clicked on login button
+2023-03-01 00:02:43,316 [main] INFO logger File - User clicked on account option
+2023-03-01 00:02:43,460 [main] INFO logger File - use clicked on add paymet method link
+2023-03-01 00:02:44,195 [main] INFO logger File - user filled debit or credit card information
+2023-03-01 00:04:36,307 [main] INFO logger File - user is on retail website
+2023-03-01 00:04:36,314 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:04:36,686 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:04:37,114 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:04:37,262 [main] INFO logger File - user clicked on login button
+2023-03-01 00:04:37,907 [main] INFO logger File - User clicked on account option
+2023-03-01 00:04:38,061 [main] INFO logger File - use clicked on add paymet method link
+2023-03-01 00:04:38,774 [main] INFO logger File - user filled debit or credit card information
+2023-03-01 00:04:38,903 [main] INFO logger File - user clicked on payment submit button
+2023-03-01 00:04:39,635 [main] INFO logger File - message was displayed Payment Method added sucessfully
+2023-03-01 00:05:49,714 [main] INFO logger File - user is on retail website
+2023-03-01 00:05:49,722 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:05:50,105 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:05:50,542 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:05:50,675 [main] INFO logger File - user clicked on login button
+2023-03-01 00:05:51,190 [main] INFO logger File - User clicked on account option
+2023-03-01 00:05:51,368 [main] INFO logger File - user clicked on bank card
+2023-03-01 00:05:51,511 [main] INFO logger File - user click on edit card
+2023-03-01 00:07:43,101 [main] INFO logger File - user is on retail website
+2023-03-01 00:07:43,109 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:07:43,493 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:07:43,909 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:07:44,045 [main] INFO logger File - user clicked on login button
+2023-03-01 00:07:44,598 [main] INFO logger File - User clicked on account option
+2023-03-01 00:07:44,762 [main] INFO logger File - use clicked on add paymet method link
+2023-03-01 00:07:45,513 [main] INFO logger File - user filled debit or credit card information
+2023-03-01 00:07:45,638 [main] INFO logger File - user clicked on payment submit button
+2023-03-01 00:08:19,612 [main] INFO logger File - user is on retail website
+2023-03-01 00:08:19,612 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:08:19,984 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:08:20,407 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:08:20,548 [main] INFO logger File - user clicked on login button
+2023-03-01 00:08:21,040 [main] INFO logger File - User clicked on account option
+2023-03-01 00:08:21,212 [main] INFO logger File - user clicked on bank card
+2023-03-01 00:08:21,354 [main] INFO logger File - user click on edit card
+2023-03-01 00:12:18,560 [main] INFO logger File - user is on retail website
+2023-03-01 00:12:18,567 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:12:18,964 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:12:19,379 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:12:19,505 [main] INFO logger File - user clicked on login button
+2023-03-01 00:12:20,042 [main] INFO logger File - User clicked on account option
+2023-03-01 00:12:20,202 [main] INFO logger File - use clicked on add paymet method link
+2023-03-01 00:12:20,948 [main] INFO logger File - user filled debit or credit card information
+2023-03-01 00:12:21,077 [main] INFO logger File - user clicked on payment submit button
+2023-03-01 00:12:21,894 [main] INFO logger File - message was displayed Payment Method added sucessfully
+2023-03-01 00:12:24,655 [main] INFO logger File - user is on retail website
+2023-03-01 00:12:24,655 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:12:25,053 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:12:25,483 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:12:25,647 [main] INFO logger File - user clicked on login button
+2023-03-01 00:12:26,226 [main] INFO logger File - User clicked on account option
+2023-03-01 00:12:26,388 [main] INFO logger File - user clicked on bank card
+2023-03-01 00:12:26,548 [main] INFO logger File - user click on edit card
+2023-03-01 00:12:27,503 [main] INFO logger File - user filled update bank account card form
+2023-03-01 00:12:27,627 [main] INFO logger File - user clicked update button
+2023-03-01 00:12:28,373 [main] INFO logger File - a message was displayed Payment Method updated Successfully
+2023-03-01 00:12:28,373 [main] INFO logger File - Expected: Payment Method updated Successfully Actual: 
+2023-03-01 00:13:46,248 [main] INFO logger File - user is on retail website
+2023-03-01 00:13:46,257 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:13:46,676 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:13:47,160 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:13:47,308 [main] INFO logger File - user clicked on login button
+2023-03-01 00:13:47,903 [main] INFO logger File - User clicked on account option
+2023-03-01 00:16:54,515 [main] INFO logger File - user is on retail website
+2023-03-01 00:16:54,522 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:16:54,882 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:16:55,315 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:16:55,448 [main] INFO logger File - user clicked on login button
+2023-03-01 00:16:56,000 [main] INFO logger File - User clicked on account option
+2023-03-01 00:16:56,190 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:16:57,746 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:18:30,849 [main] INFO logger File - user is on retail website
+2023-03-01 00:18:30,859 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:18:31,102 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:18:31,528 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:18:31,652 [main] INFO logger File - user clicked on login button
+2023-03-01 00:18:32,175 [main] INFO logger File - User clicked on account option
+2023-03-01 00:18:32,367 [main] INFO logger File - user clicked on address option
+2023-03-01 00:18:33,635 [main] INFO logger File - user filled address form
+2023-03-01 00:18:33,805 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:18:34,534 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:18:37,310 [main] INFO logger File - user is on retail website
+2023-03-01 00:18:37,310 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:18:37,670 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:18:38,082 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:18:38,235 [main] INFO logger File - user clicked on login button
+2023-03-01 00:18:38,863 [main] INFO logger File - User clicked on account option
+2023-03-01 00:18:39,051 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:18:40,699 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:21:38,493 [main] INFO logger File - user is on retail website
+2023-03-01 00:21:38,503 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:21:38,872 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:21:39,338 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:21:39,478 [main] INFO logger File - user clicked on login button
+2023-03-01 00:21:39,990 [main] INFO logger File - User clicked on account option
+2023-03-01 00:21:40,182 [main] INFO logger File - user clicked on address option
+2023-03-01 00:21:41,399 [main] INFO logger File - user filled address form
+2023-03-01 00:21:41,552 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:22:21,641 [main] INFO logger File - user is on retail website
+2023-03-01 00:22:21,647 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:22:22,036 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:22:22,452 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:22:22,589 [main] INFO logger File - user clicked on login button
+2023-03-01 00:22:23,108 [main] INFO logger File - User clicked on account option
+2023-03-01 00:22:23,297 [main] INFO logger File - user clicked on address option
+2023-03-01 00:22:24,514 [main] INFO logger File - user filled address form
+2023-03-01 00:22:24,682 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:22:25,382 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:22:28,173 [main] INFO logger File - user is on retail website
+2023-03-01 00:22:28,173 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:22:28,541 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:22:28,955 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:22:29,097 [main] INFO logger File - user clicked on login button
+2023-03-01 00:22:29,706 [main] INFO logger File - User clicked on account option
+2023-03-01 00:22:29,911 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:22:31,485 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:23:51,827 [main] INFO logger File - user is on retail website
+2023-03-01 00:23:51,836 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:23:52,162 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:23:52,598 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:23:52,736 [main] INFO logger File - user clicked on login button
+2023-03-01 00:23:53,261 [main] INFO logger File - User clicked on account option
+2023-03-01 00:23:53,456 [main] INFO logger File - user clicked on address option
+2023-03-01 00:23:54,698 [main] INFO logger File - user filled address form
+2023-03-01 00:23:54,864 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:23:55,649 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:23:58,548 [main] INFO logger File - user is on retail website
+2023-03-01 00:23:58,550 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:23:58,927 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:23:59,346 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:23:59,483 [main] INFO logger File - user clicked on login button
+2023-03-01 00:24:00,082 [main] INFO logger File - User clicked on account option
+2023-03-01 00:24:00,262 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:24:01,741 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:28:57,977 [main] INFO logger File - user is on retail website
+2023-03-01 00:28:57,985 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:28:58,373 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:28:58,809 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:28:58,942 [main] INFO logger File - user clicked on login button
+2023-03-01 00:28:59,456 [main] INFO logger File - User clicked on account option
+2023-03-01 00:28:59,669 [main] INFO logger File - user clicked on address option
+2023-03-01 00:29:00,965 [main] INFO logger File - user filled address form
+2023-03-01 00:29:01,125 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:29:01,903 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:29:04,831 [main] INFO logger File - user is on retail website
+2023-03-01 00:29:04,832 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:29:05,186 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:29:05,625 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:29:05,771 [main] INFO logger File - user clicked on login button
+2023-03-01 00:29:06,496 [main] INFO logger File - User clicked on account option
+2023-03-01 00:29:06,678 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:29:08,367 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:29:08,541 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:31:38,846 [main] INFO logger File - user is on retail website
+2023-03-01 00:31:38,856 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:31:39,257 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:31:39,677 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:31:39,826 [main] INFO logger File - user clicked on login button
+2023-03-01 00:31:40,348 [main] INFO logger File - User clicked on account option
+2023-03-01 00:31:40,587 [main] INFO logger File - user clicked on address option
+2023-03-01 00:31:42,020 [main] INFO logger File - user filled address form
+2023-03-01 00:31:42,242 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:31:42,947 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:31:45,710 [main] INFO logger File - user is on retail website
+2023-03-01 00:31:45,710 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:31:46,075 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:31:46,475 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:31:46,619 [main] INFO logger File - user clicked on login button
+2023-03-01 00:31:47,264 [main] INFO logger File - User clicked on account option
+2023-03-01 00:31:47,432 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:31:49,072 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:31:49,238 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:33:01,329 [main] INFO logger File - user is on retail website
+2023-03-01 00:33:01,340 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:33:01,684 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:33:02,113 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:33:02,254 [main] INFO logger File - user clicked on login button
+2023-03-01 00:33:02,854 [main] INFO logger File - User clicked on account option
+2023-03-01 00:33:03,053 [main] INFO logger File - user clicked on address option
+2023-03-01 00:33:04,235 [main] INFO logger File - user filled address form
+2023-03-01 00:33:04,400 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:33:05,179 [main] INFO logger File - Address Added Successfully, this message was diplayed 
+2023-03-01 00:33:08,032 [main] INFO logger File - user is on retail website
+2023-03-01 00:33:08,033 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:33:08,390 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:33:08,787 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:33:08,946 [main] INFO logger File - user clicked on login button
+2023-03-01 00:33:09,599 [main] INFO logger File - User clicked on account option
+2023-03-01 00:33:09,821 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:33:11,286 [main] INFO logger File - user updated address form with new information
+2023-03-01 00:33:11,444 [main] INFO logger File - user clicked on address edit button
+2023-03-01 00:33:12,160 [main] INFO logger File - a message was displayed Address Updated Successfully
+2023-03-01 00:38:05,503 [main] INFO logger File - user is on retail website
+2023-03-01 00:38:05,514 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-01 00:38:05,828 [main] INFO logger File - user click on the Sign in option
+2023-03-01 00:38:06,233 [main] INFO logger File - user entered email abdullah.bahir88@gmail.com and password Tek@12345
+2023-03-01 00:38:06,368 [main] INFO logger File - user clicked on login button
+2023-03-01 00:38:06,794 [main] INFO logger File - user changed the catagory to Smart Home
+2023-03-01 00:38:06,985 [main] INFO logger File - user added searched for kasa outdoor smart plug
+2023-03-01 00:38:07,103 [main] INFO logger File - user clicked on search button
+2023-03-01 00:38:07,368 [main] INFO logger File - user clicked on item
+2023-03-01 00:38:07,659 [main] INFO logger File - user selected item quantity2
+2023-03-01 00:38:07,827 [main] INFO logger File - user clicked on add to card button
+2023-03-01 00:38:08,122 [main] INFO logger File - user clicked on the cart option
+2023-03-01 00:38:08,279 [main] INFO logger File - use clicekd on proceed to checkout button
+2023-03-01 00:38:08,452 [main] INFO logger File - user clicked on add new address link
+2023-03-01 00:38:09,687 [main] INFO logger File - user filled address form
+2023-03-01 00:38:09,849 [main] INFO logger File - user clicked on add your address button
+2023-03-01 00:38:10,032 [main] INFO logger File - user clicked on order new account link 
+2023-03-01 00:38:10,772 [main] INFO logger File - user filled debit or credit card information
+2023-03-01 00:38:10,908 [main] INFO logger File - user clicked on payment submit buttion
+2023-03-01 00:38:11,593 [main] INFO logger File - user clicked on or place your ordr button
+2023-03-01 00:38:11,899 [main] INFO logger File - a message was displayed Order Placed, Thanks

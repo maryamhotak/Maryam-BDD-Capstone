@@ -1,4 +1,4 @@
- @test
+@test 
 Feature: Retail Home Page
 
   Scenario: Verify user can search a product
@@ -44,7 +44,7 @@ Feature: Retail Home Page
     And User click Add a new address link for shipping address
     And user fill new address form with below information
       | country     | fullName | phoneNumber | streetAddress | apt | city  | state | zipCode |
-      | Afghanistan | Gul Ma     |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
+      | Afghanistan | Gul Maa     |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
     And User click Add your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information

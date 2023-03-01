@@ -10,7 +10,7 @@ Feature: Retail Account Page
     Then User click on Account option
 
   Scenario: Verify User can update Profile Information
-    And User update Name 'Abdullah' and phone '4232328413'
+    And User update Name 'Abdullah' and phone '4232328414'
     And User click on Update button
     Then User profile information should be updated
 
@@ -36,19 +36,21 @@ Feature: Retail Account Page
     And User click on remove option of card section
     Then payment details should be removed
 
+  
   Scenario: Verify User can add an Address
     And User click on Add address option
     And user fill new address form with below information
-      | country     | fullName | phoneNumber | streetAddress    | apt  | city  | state | zipCode |
-      | Afghanistan | Gul Jani |  2342323454 | 2305 khoshalkhan | 2305 | kabul | Kabul |   07084 |
+      | country     | fullName | phoneNumber | streetAddress | apt  | city  | state | zipCode |
+      | Afghanistan | Gul Jani |  2342323454 | 2305 khoshal  | 2305 | kabul | Kabul |   70844 |
     And User click Add Your Address button
     Then address update message should be displayed 'Address Added Successfully'
 
+  
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And User edit address form with below information
       | country     | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
-      | Afghanistan | jan      |           1 | 2nd st        |  89 | c    | Kabul |   1234 |
+      | Afghanistan | jan      |           1 | 2nd           |  89 | c    | Kabul |    1234 |
     And User click update Your Address button
     Then A Message should be displayed 'Address Updated Successfully'
 
