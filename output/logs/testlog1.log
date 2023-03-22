@@ -3669,3 +3669,12 @@
 2023-03-09 18:25:39,872 [main] INFO logger File - Smart Homeis equal to Smart Home
 2023-03-09 18:25:39,927 [main] INFO logger File - Sportsis equal to Sports
 2023-03-09 18:25:39,983 [main] INFO logger File - Automativeis equal to Automative
+2023-03-22 12:51:01,706 [main] INFO logger File - user is on retail website
+2023-03-22 12:51:01,712 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-22 12:51:01,907 [main] INFO logger File - user click on the Sign in option
+2023-03-22 12:51:02,159 [main] INFO logger File - user entered email maro@gmail.com and password Tek@12345
+2023-03-22 12:51:02,252 [main] INFO logger File - user clicked on login button
+2023-03-22 12:51:02,923 [main] INFO logger File - User clicked on account option
+2023-03-22 12:51:03,283 [main] INFO logger File - user filled password update form
+2023-03-22 12:51:03,377 [main] INFO logger File - user clicked on update pasword button
+2023-03-22 12:51:04,431 [main] INFO logger File - a message was displayed Password Updated Successfully

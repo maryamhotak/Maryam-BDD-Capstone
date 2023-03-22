@@ -4,11 +4,10 @@ Feature: Retail Order Page
   Background: 
     Given User is on retail website
     When User click on the Sign in option
-    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User enter email 'maryamh@gmail.com' and password 'Tek@12345'
     And User click on login button
     And User click on Order section
 
-  
   Scenario: Verify user can cancel the order
     And User click on first order in list
     And User click on Cancel The Order button
@@ -16,11 +15,6 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     And A cancelation message should be displayed 'Your Order Has Been Cancelled'
 
-  #@test
-  #Scenario: Verify user can place order again
-  #  And User click on buy again button
-  # Then User click on Place Your order
-  
   Scenario: Verify user can Return the order
     And User click on second order in list
     And User click on Return items button
@@ -29,7 +23,6 @@ Feature: Retail Order Page
     And User click on return Order button
     Then A cancelation messages should be displayed 'Return was successfull'
 
-  
   Scenario: Verify user can write a review on order placed
     And User click on first order in list
     And User click on Review button

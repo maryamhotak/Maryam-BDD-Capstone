@@ -1,11 +1,11 @@
 @test
 Feature: Retail Home Page
-  
+
   Scenario: Verify user can search a product
     Given User is on retail website
     When User search for "pokemon" product
     Then The product should be displayed
-   
+
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section
@@ -25,11 +25,11 @@ Feature: Retail Home Page
       | Smart Home  | Smart Home Lightning           | Plugs and Outlets       |
       | Sports      | Athletic Clothing              | Exercise & Fitness      |
       | Automative  | Automative Parts & Accessories | MotoCycle & Powersports |
-  
+
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     Given User is on retail website
     When User click on the Sign in option
-    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User enter email 'maryamh@gmail.com' and password 'Tek@12345'
     And User click on login button
     When User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -43,22 +43,21 @@ Feature: Retail Home Page
     And User click on Proceed to Checkout button
     And User click Add a new address link for shipping address
     And user fill new address form with below information
-      | country     | fullName | phoneNumber | streetAddress | apt | city  | state | zipCode |
-      | Afghanistan | Gul Maa     |  0779998922 | Deh-Mazang    | 232 | Kabul | Kabul |   13082 |
+      | country       | fullName | phoneNumber | streetAddress | apt | city   | state | zipCode |
+      | United States | Maro     |  0779998922 | 254 north     | 232 | Dallas | Texas |   75265 |
     And User click Add your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1256876523459801 | Jan        |              11 |           2027 |          432 |
+      | 1256876523459801 | Maro       |              11 |           2027 |          432 |
     And User click on Add your card button
     And User click on Place Your Order
     Then Message should be Displayed 'Order Placed, Thanks'
 
-  
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on the Sign in option
-    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User enter email 'maryamh@gmail.com' and password 'Tek@12345'
     And User click on login button
     When User should be logged in into Account
     And User change the category to 'Electronics'
@@ -76,7 +75,7 @@ Feature: Retail Home Page
   Scenario: Verify User can add an item to cart
     Given User is on retail website
     When User click on the Sign in option
-    And User enter email 'abdullah.bahir88@gmail.com' and password 'Tek@12345'
+    And User enter email maryamh@gmail.com' and password 'Tek@12345'
     And User click on login button
     When User should be logged in into Account
     And User change the category to 'Smart Home'

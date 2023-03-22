@@ -4,7 +4,7 @@ Feature: Change Password
   Scenario: Verify User can Update password
     Given User is on retail website
     When User click on the Sign in option
-    And User enter email 'jangul@gmail.com' and password "Tek@12345"
+    And User enter email 'maro@gmail.com' and password "Tek@12345"
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
