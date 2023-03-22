@@ -3653,3 +3653,19 @@
 2023-03-01 00:38:10,908 [main] INFO logger File - user clicked on payment submit buttion
 2023-03-01 00:38:11,593 [main] INFO logger File - user clicked on or place your ordr button
 2023-03-01 00:38:11,899 [main] INFO logger File - a message was displayed Order Placed, Thanks
+2023-03-09 18:24:47,452 [main] INFO logger File - user is on retail website
+2023-03-09 18:24:47,461 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:24:47,763 [main] INFO logger File - user searched for product pokemon
+2023-03-09 18:24:47,879 [main] INFO logger File - the Product is displayed on home page
+2023-03-09 18:25:36,219 [main] INFO logger File - user is on retail website
+2023-03-09 18:25:36,228 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:25:36,698 [main] INFO logger File - user searched for product pokemon
+2023-03-09 18:25:36,797 [main] INFO logger File - the Product is displayed on home page
+2023-03-09 18:25:39,373 [main] INFO logger File - user is on retail website
+2023-03-09 18:25:39,374 [main] INFO logger File - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:25:39,660 [main] INFO logger File - User clicked on All Departments
+2023-03-09 18:25:39,753 [main] INFO logger File - Electronicsis equal to Electronics
+2023-03-09 18:25:39,808 [main] INFO logger File - Computersis equal to Computers
+2023-03-09 18:25:39,872 [main] INFO logger File - Smart Homeis equal to Smart Home
+2023-03-09 18:25:39,927 [main] INFO logger File - Sportsis equal to Sports
+2023-03-09 18:25:39,983 [main] INFO logger File - Automativeis equal to Automative

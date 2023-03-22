@@ -3653,3 +3653,19 @@
 2023-03-01 00:38:10,908 - logger File -INFO - user clicked on payment submit buttion
 2023-03-01 00:38:11,593 - logger File -INFO - user clicked on or place your ordr button
 2023-03-01 00:38:11,899 - logger File -INFO - a message was displayed Order Placed, Thanks
+2023-03-09 18:24:47,452 - logger File -INFO - user is on retail website
+2023-03-09 18:24:47,461 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:24:47,763 - logger File -INFO - user searched for product pokemon
+2023-03-09 18:24:47,879 - logger File -INFO - the Product is displayed on home page
+2023-03-09 18:25:36,219 - logger File -INFO - user is on retail website
+2023-03-09 18:25:36,228 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:25:36,698 - logger File -INFO - user searched for product pokemon
+2023-03-09 18:25:36,797 - logger File -INFO - the Product is displayed on home page
+2023-03-09 18:25:39,373 - logger File -INFO - user is on retail website
+2023-03-09 18:25:39,374 - logger File -INFO - Actual Title React App Equals ExpectedTitleReact App
+2023-03-09 18:25:39,660 - logger File -INFO - User clicked on All Departments
+2023-03-09 18:25:39,753 - logger File -INFO - Electronicsis equal to Electronics
+2023-03-09 18:25:39,808 - logger File -INFO - Computersis equal to Computers
+2023-03-09 18:25:39,872 - logger File -INFO - Smart Homeis equal to Smart Home
+2023-03-09 18:25:39,927 - logger File -INFO - Sportsis equal to Sports
+2023-03-09 18:25:39,983 - logger File -INFO - Automativeis equal to Automative

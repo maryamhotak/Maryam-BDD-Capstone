@@ -10,6 +10,7 @@ public class ChromeBrowser implements Browser {
     * this method will return Chrom driver
     * and will navigate to application url
     */
+	@Override
 	public WebDriver openBrowser(String url) {
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver = new ChromeDriver();
